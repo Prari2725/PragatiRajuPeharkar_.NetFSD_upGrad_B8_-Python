@@ -5,7 +5,7 @@
     <title>Course Enrollment</title>
 </head>
 <body>
-
+    <center>
 <h1>Course Enrollment Form</h1>
 
 <form>
@@ -25,11 +25,17 @@
 <br><br>
 
 <label>Skill Level:</label>
-<meter value="0.6">60%</meter>
-<br><br>
+<select required>
+    <option value="">Select</option>
+    <option value="beginner">Beginner</option>
+    <option value="intermediate">Intermediate</option>
+    <option value="advanced">Advanced</option>
+<br><br><br>
 
 <label>Progress:</label>
-<progress value="70" max="100"></progress>
+<br><br>
+
+<input type="range" value="70" max="100"> 
 <br><br>
 
 <label>Experience Level (1-10):</label>
@@ -43,6 +49,7 @@
 <button type="submit">Enroll</button>
 
 </form>
+</center>
 
 </body>
 </html>

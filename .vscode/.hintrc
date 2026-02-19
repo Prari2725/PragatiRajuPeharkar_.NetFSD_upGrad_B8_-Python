@@ -3,20 +3,14 @@
     "development"
   ],
   "hints": {
+    "meta-viewport": "off",
+    "disown-opener": "off",
     "axe/forms": [
       "default",
       {
         "label": "off",
         "select-name": "off"
       }
-    ],
-    "axe/language": [
-      "default",
-      {
-        "html-has-lang": "off"
-      }
-    ],
-    "meta-viewport": "off",
-    "disown-opener": "off"
+    ]
   }
 }
