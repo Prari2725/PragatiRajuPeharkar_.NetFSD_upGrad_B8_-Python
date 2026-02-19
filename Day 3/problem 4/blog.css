@@ -1,0 +1,38 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+header {
+    text-align: center;
+    background-color: darkblue;
+    color: white;
+    padding: 15px;
+}
+
+.blog-container {
+    display: flex;
+    gap: 20px;
+    padding: 20px;
+    flex-wrap: wrap;
+}
+
+.card {
+    background-color: #f4f4f4;
+    padding: 15px;
+    border: 1px solid gray;
+    flex: 1 1 30%;
+}
+
+.card button {
+    padding: 8px;
+    background-color: darkblue;
+    color: white;
+    border: none;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+    .blog-container {
+        flex-direction: column;
+    }
+}

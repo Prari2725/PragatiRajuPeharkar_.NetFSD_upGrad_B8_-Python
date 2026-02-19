@@ -1,0 +1,47 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+/* Text styles */
+h1 {
+    color: darkblue;
+    text-align: center;
+}
+
+p {
+    color: gray;
+    font-size: 18px;
+}
+
+/* Section styling */
+.highlight {
+    background-color: lightyellow;
+    border: 2px solid orange;
+    padding: 15px;
+}
+
+/* Box model demo */
+.box {
+    background-color: lightblue;
+    margin: 20px;
+    padding: 20px;
+    border: 2px solid blue;
+}
+
+/* Form styling */
+form {
+    margin-top: 20px;
+}
+
+input {
+    display: block;
+    margin: 10px 0;
+    padding: 8px;
+}
+
+button {
+    padding: 8px 15px;
+    background-color: darkblue;
+    color: white;
+    border: none;
+}
