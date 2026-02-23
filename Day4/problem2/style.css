@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: lightblue;
+}
+
+.navbar {
+    display: flex;
+    gap: 20px;
+    background-color: darkblue;
+    padding: 10px;
+}
+
+.navbar a {
+    color: white;
+    text-decoration: none;
+}
+
+/* 🔹 Mobile View */
+@media (max-width: 768px) {
+
+    body {
+        background-color: rgb(206, 70, 145);  /* Background changes */
+    }
+
+    h1 {
+        font-size: 20px;  /* Smaller font */
+    }
+
+    .navbar {
+        flex-direction: column; /* Vertical navigation */
+    }
+}
