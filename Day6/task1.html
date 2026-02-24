@@ -1,0 +1,90 @@
+<!-- Task: create dropdown and list in DD store city names and list store color names and based on selection data should store in local storage -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        .violet{
+            color:violet;
+        }
+        .blue{
+            color:blue;
+        }
+        .green{
+            color:green;
+        }
+
+        #city{
+            font-size:20px;
+            font-weight:bold;
+
+        }
+        #color{
+            font-size:20px;
+            font-weight:bold;
+        }
+        select{
+            width:300px;
+            height:auto;
+
+        }
+        h2{
+            margin-top:100px;
+        }
+
+    </style>
+</head>
+<body>
+    <center>
+    <h2>City and Color </h2>
+    <select id="city">
+        <option value="pune">Pune</option>
+        <option value="mumbai">Mumbai</option>
+        <option value="delhi">Nashik</option>
+    </select>
+    <br><br>
+    <select id="color">
+        <option value="violet" class="violet">violet</option>
+        <option value="blue" class="blue">Blue</option>
+        <option value="green" class="green">Green</option>
+    </select>
+    <br><br>
+    <button type="submit" onClick="show()">Click</button>
+    <br>
+    <br>
+    <div id="d1"></div>
+    <br><br>
+    <div id="d2"></div>
+    </center>
+    
+    <script>
+        function show(){
+          if (typeof(Storage) !== "undefined") {
+
+        let city = document.getElementById("city").value;
+        let color = document.getElementById("color").value;
+
+        localStorage.setItem("city", city);
+        localStorage.setItem("color", color);
+
+        let d1 = document.getElementById("d1");
+        let d2 = document.getElementById("d2");
+
+        d1.innerHTML = "Your selection for city is " + city;
+        d2.innerHTML = "Your selection for color is " + color;
+
+       
+        d2.style.color = color;
+    } 
+    else {
+        alert("your brower not supported");
+    }
+}
+
+
+    </script>
+</body>
+</html>

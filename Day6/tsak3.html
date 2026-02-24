@@ -1,0 +1,153 @@
+<!--Problem 2: Live Form Validation with Events (Level-1) 
+Scenario 
+Create a simple registration form that validates user input when fields change. 
+📌 Requirements 
+Fields: 
+Name 
+Email 
+Age 
+Use: 
+onchange 
+onclick 
+Validate: 
+Name cannot be empty 
+Email must contain "@" 
+Age must be greater than 18 
+Display validation message dynamically. 
+Store valid user data in sessionStorage. 
+🛠️ Technical Constraints 
+Must use inline onchange events. 
+Store valid data using: 
+sessionStorage.setItem() 
+No external libraries. 
+Use basic JavaScript only. 
+🎯 Learning Outcome 
+You will be able to: 
+onchange event usage 
+Form validation logic 
+Difference between localStorage and sessionStorage 
+Dynamic DOM updates -->
+
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Document</title>
+
+<style>
+body{
+   
+    background: linear-gradient(to right, #8e9eab, #eef2f3);
+    
+    display: flex; 
+    justify-content: center;   
+    align-items: center;       
+    height: 100vh;            
+}
+
+#p2{
+    background-color: white;
+    padding: 30px;
+    border-radius: 10px; 
+    width: 350px;
+    text-align: center;
+}
+
+h2{
+    margin-bottom: 20px;
+}
+
+input{
+    width: 100%;
+    padding: 8px;
+    margin: 8px 0;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+}
+
+button{
+    width: 100%;
+    padding: 10px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover{
+    background-color: #45a049;
+}
+
+#p1{
+    margin-top: 10px;
+    font-weight: bold;
+    color:red;
+}
+</style>
+</head>
+
+<body>
+<div id="p2">
+    <h2>Registeration form</h2>
+
+Name: <input type="text" id="t1" onchange="validate()" ><br><br>
+Email: <input type="text" id="e1" onchange="validate()" ><br><br>
+Age: <input type="number" id="n1" onchange="validate()" ><br><br>
+
+<button onclick="submit()">Submit</button>
+
+
+<p id="p1"></p>
+
+</div>
+
+<script>
+
+function validate(){
+
+    let t1 = document.getElementById("t1").value;
+    let e1 = document.getElementById("e1").value;
+    let n1 =document.getElementById("n1").value;
+    let p1 = document.getElementById("p1");
+
+    if(t1 === ""){
+        p1.innerHTML = "Please enter name";
+        return false;
+    }
+    else if(!e1.includes("@")){
+
+        p1.innerHTML = "Invalid email";
+        return false;
+    }
+    else if(n1 <= 18){
+        p1.innerHTML = "Age must be greater than 18";
+        return false;
+    }
+    else{
+        p1.innerHTML = "Your data is validated and correct";
+        return true;
+    }
+}
+
+function submit(){
+
+    if(validate()){  
+        
+        let t1 = document.getElementById("t1").value;
+        let e1 = document.getElementById("e1").value;
+        let n1 = document.getElementById("n1").value;
+
+        sessionStorage.setItem("name", t1);
+        sessionStorage.setItem("email", e1);
+        sessionStorage.setItem("age", n1);
+
+        document.getElementById("p1").innerHTML = " Your Registration is  Successful";
+    }
+}
+
+</script>
+
+</body>
+</html>
