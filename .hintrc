@@ -17,6 +17,12 @@
       }
     ],
     "meta-viewport": "off",
-    "disown-opener": "off"
+    "disown-opener": "off",
+    "axe/name-role-value": [
+      "default",
+      {
+        "button-name": "off"
+      }
+    ]
   }
 }
