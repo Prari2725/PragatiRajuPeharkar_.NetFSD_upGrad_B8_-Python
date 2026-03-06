@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>DOCUMENT</title>
+
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+
+<style>
+
+body{
+    font-family: Arial;
+    margin:40px;
+}
+
+.question{
+    background:#f2f2f2;
+    padding:12px;
+    margin-top:10px;
+    cursor:pointer;
+}
+
+.answer{
+    display:none;
+    padding:10px;
+    background:#e8f4ff;
+}
+
+.active{
+    background:#007BFF;
+    color:white;
+}
+
+</style>
+
+</head>
+
+<body>
+
+<h2>FAQ Section</h2>
+
+<div class="question">1. What is jQuery?</div>
+<div class="answer">jQuery is a JavaScript library used for DOM manipulation.</div>
+
+<div class="question">2. Why use jQuery?</div>
+<div class="answer">It simplifies JavaScript coding and UI interactions.</div>
+
+<div class="question">3. What is slideToggle()?</div>
+<div class="answer">slideToggle() shows or hides elements with sliding animation.</div>
+
+<div class="question">4. Can jQuery manipulate HTML?</div>
+<div class="answer">Yes, it can add, remove, and modify HTML elements.</div>
+
+<div class="question">5. Is jQuery still used?</div>
+<div class="answer">Yes, many legacy and UI projects still use it.</div>
+
+<script>
+
+$(document).ready(function(){
+
+    $(".question").click(function(){
+
+        $(this).next(".answer").slideToggle();
+
+        $(this).toggleClass("active");
+
+    });
+
+});
+
+</script>
+
+</body>
+</html>

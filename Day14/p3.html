@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Simple To-Do (jQuery)</title>
+  <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+  <style>
+    body{font-family:Arial;margin:20px;}
+    #bar{display:flex;gap:10px;margin-bottom:10px;}
+    input{flex:1;padding:8px;}
+    button{padding:8px 12px;cursor:pointer;}
+    li{border:1px solid #ddd;padding:10px;margin:8px 0;display:flex;justify-content:space-between;align-items:center;}
+    .done .task{text-decoration:line-through;color:gray;}
+    .actions button{margin-left:6px;}
+  </style>
+</head>
+<body>
+
+  <h3>To-Do List</h3>
+
+  <div id="bar">
+    <input id="taskInput" type="text" placeholder="Enter task..." />
+    <button id="addBtn" type="button">Add</button>
+  </div>
+
+  <ul id="todo"></ul>
+
+  <script>
+    $(function () {
+
+      $("#addBtn").on("click", function () {
+        var text = $.trim($("#taskInput").val());
+        if (!text) return;
+
+        var $li = $('<li class="item"></li>');
+        var $task = $('<span class="task"></span>').text(text);
+
+        var $actions = $('<span class="actions"></span>');
+        var $done = $('<button class="doneBtn" type="button">Done</button>');
+        var $remove = $('<button class="removeBtn" type="button">Remove</button>');
+
+        $actions.append($done, $remove);
+        $li.append($task, $actions);
+
+        $("#todo").prepend($li);
+        $("#taskInput").val("").focus();
+      });
+
+      // Enter key adds
+      $("#taskInput").on("keydown", function (e) {
+        if (e.key === "Enter") $("#addBtn").trigger("click");
+      });
+
+      // Event delegation: toggle done
+      $("#todo").on("click", ".doneBtn", function () {
+        var $li = $(this).closest("li");
+        $li.toggleClass("done");
+
+        var isDone = $li.hasClass("done");
+        $(this).text(isDone ? "Undone" : "Done");      // .text()
+        $(this).prop("aria-pressed", isDone);          // .prop()
+        $(this).attr("data-state", isDone ? "done" : "todo"); // .attr()
+      });
+
+      // Event delegation: remove
+      $("#todo").on("click", ".removeBtn", function () {
+        $(this).closest("li").remove();
+      });
+
+    });
+  </script>
+
+</body>
+</html>

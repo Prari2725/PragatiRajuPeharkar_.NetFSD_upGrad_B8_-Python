@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Document</title>
+  <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+  <style>
+    body{font-family:Arial;margin:20px;}
+    h2{margin-top:30px;}
+    .box{border:1px solid #ddd;padding:12px;margin:10px 0;}
+    button{padding:6px 10px;cursor:pointer;}
+    button[disabled]{opacity:.6;cursor:not-allowed;}
+    .msg{color:green;font-weight:700;margin-left:10px;display:none;}
+    li{border:1px solid #ddd;padding:10px;margin:8px 0;display:flex;justify-content:space-between;align-items:center;}
+    .done .task{text-decoration:line-through;color:gray;}
+    .actions button{margin-left:6px;}
+  </style>
+</head>
+<body>
+
+  <h1>Cart</h1>
+
+
+  <div class="box">
+    <b>Cart Count:</b> <span id="cartCount">0</span>
+  </div>
+
+
+  <h2>Products</h2>
+  <div id="products">
+    <div class="box product">
+      Mouse - ₹499
+      <button class="addBtn">Add to Cart</button>
+      <span class="msg">Added ✅</span>
+    </div>
+
+    <div class="box product">
+      Keyboard - ₹2499
+      <button class="addBtn">Add to Cart</button>
+      <span class="msg">Added ✅</span>
+    </div>
+
+    <div class="box product">
+      USB Hub - ₹1199
+      <button class="addBtn">Add to Cart</button>
+      <span class="msg">Added ✅</span>
+    </div>
+
+    <div class="box product">
+      Headphones - ₹3299
+      <button class="addBtn">Add to Cart</button>
+      <span class="msg">Added ✅</span>
+    </div>
+  </div>
+  <script>
+    $(function () {
+   
+      var cart = 0;
+
+      $("#products").on("click", ".addBtn", function () {
+        var $btn = $(this);
+
+        if ($btn.prop("disabled")) return;
+
+        cart++;
+        $("#cartCount").text(cart);         
+
+        $btn.prop("disabled", true);         // 
+        $btn.attr("data-added", "true");     // 
+        $btn.text("Added");
+
+        $btn.siblings(".msg").show();        // show message 
+      });
+    })
+
+    
+      
+  </script>
+
+</body>
+</html>
