@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>College Event Dashboard</title>
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body>
+
+<nav class="navbar navbar-expand-lg navbar-dark bg-primary">
+<div class="container-fluid">
+<a class="navbar-brand" href="#">Event managent Dashboard</a>
+<button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navMenu">
+<span class="navbar-toggler-icon"></span>
+</button>
+<div class="collapse navbar-collapse" id="navMenu">
+<ul class="navbar-nav ms-auto">
+<li class="nav-item"><a class="nav-link active" href="#">Home</a></li>
+<li class="nav-item"><a class="nav-link" href="#">Events</a></li>
+</ul>
+</div>
+</div>
+</nav>
+
+<div class="container my-4">
+<div class="row g-4">
+<div class="col-12 col-lg-8">
+<h4 class="mb-3">Upcoming Events</h4>
+<ul class="list-group" id="eventList">
+<li class="list-group-item d-flex justify-content-between align-items-center">
+<span>Upgrad Assesment -  2026-02-27 </span>
+<div>
+<button class="btn btn-sm btn-primary me-2 editBtn">Edit</button>
+<button class="btn btn-sm btn-danger deleteBtn">Delete</button>
+</div>
+</li>
+</ul>
+</div>
+
+<div class="col-12 col-lg-4 d-flex align-items-start">
+<button class="btn btn-success w-100" data-bs-toggle="modal" data-bs-target="#eventModal" id="addBtn">
+Add New Event
+</button>
+</div>
+</div>
+</div>
+
+<div class="modal fade" id="eventModal" tabindex="-1">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-header">
+<h5 class="modal-title">Event</h5>
+<button type="button" class="btn-close" data-bs-dismiss="modal"></button>
+</div>
+<div class="modal-body">
+<form class="needs-validation" novalidate>
+<input type="hidden" id="editIndex">
+<div class="mb-3">
+<label class="form-label">Event Name</label>
+<input type="text" class="form-control" id="eventName" required>
+<div class="invalid-feedback">Enter event name</div>
+</div>
+<div class="mb-3">
+<label class="form-label">Date</label>
+<input type="date" class="form-control" id="eventDate" required>
+<div class="invalid-feedback">Select date</div>
+</div>
+<button type="submit" class="btn btn-primary w-100">Save</button>
+</form>
+</div>
+</div>
+</div>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+
+<script>
+const form = document.querySelector('.needs-validation')
+const eventList = document.getElementById('eventList')
+const eventName = document.getElementById('eventName')
+const eventDate = document.getElementById('eventDate')
+const editIndex = document.getElementById('editIndex')
+const modal = new bootstrap.Modal(document.getElementById('eventModal'))
+
+form.addEventListener('submit', function(e) {
+e.preventDefault()
+
+if (!form.checkValidity()) {
+form.classList.add('was-validated')
+return
+}
+
+if (editIndex.value === "") {
+addEvent(eventName.value, eventDate.value)
+} else {
+updateEvent(editIndex.value, eventName.value, eventDate.value)
+}
+
+form.reset()
+editIndex.value = ""
+form.classList.remove('was-validated')
+modal.hide()
+})
+
+function addEvent(name, date) {
+const li = document.createElement('li')
+li.className = "list-group-item d-flex justify-content-between align-items-center"
+li.innerHTML =
+"<span>" + name + " - " + date + "</span>" +
+"<div>" +
+"<button class='btn btn-sm btn-warning me-2 editBtn'>Edit</button>" +
+"<button class='btn btn-sm btn-danger deleteBtn'>Delete</button>" +
+"</div>"
+eventList.appendChild(li)
+}
+
+function updateEvent(index, name, date) {
+const item = eventList.children[index]
+item.querySelector('span').textContent = name + " - " + date
+}
+
+eventList.addEventListener('click', function(e) {
+
+if (e.target.classList.contains('deleteBtn')) {
+e.target.closest('li').remove()
+}
+
+if (e.target.classList.contains('editBtn')) {
+const li = e.target.closest('li')
+const text = li.querySelector('span').textContent.split(" - ")
+
+eventName.value = text[0]
+eventDate.value = text[1]
+
+editIndex.value = Array.from(eventList.children).indexOf(li)
+modal.show()
+}
+
+})
+</script>
+
+</body>
+</html>
