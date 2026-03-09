@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+
+</head>
+<body>
+    <button id="b1">click me</button>
+        <p >the hide()</p>
+        <p> the 2nd para</p>
+
+    <script>
+        $(document).ready(function(){
+            $('#b1').click(function(){
+                $('#b1').prop('disable',true);
+            })
+        })
+    </script>
+
+</body>
+</html>

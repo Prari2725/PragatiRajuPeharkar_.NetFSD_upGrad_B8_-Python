@@ -1,0 +1,15 @@
+D:\uGE_Dotnet FSD with Python\Daywise content\Day16\Day16\Day16\bin\Debug\net10.0\Day16.exe
+D:\uGE_Dotnet FSD with Python\Daywise content\Day16\Day16\Day16\bin\Debug\net10.0\Day16.deps.json
+D:\uGE_Dotnet FSD with Python\Daywise content\Day16\Day16\Day16\bin\Debug\net10.0\Day16.runtimeconfig.json
+D:\uGE_Dotnet FSD with Python\Daywise content\Day16\Day16\Day16\bin\Debug\net10.0\Day16.dll
+D:\uGE_Dotnet FSD with Python\Daywise content\Day16\Day16\Day16\bin\Debug\net10.0\Day16.pdb
+D:\uGE_Dotnet FSD with Python\Daywise content\Day16\Day16\Day16\obj\Debug\net10.0\Day16.GeneratedMSBuildEditorConfig.editorconfig
+D:\uGE_Dotnet FSD with Python\Daywise content\Day16\Day16\Day16\obj\Debug\net10.0\Day16.AssemblyInfoInputs.cache
+D:\uGE_Dotnet FSD with Python\Daywise content\Day16\Day16\Day16\obj\Debug\net10.0\Day16.AssemblyInfo.cs
+D:\uGE_Dotnet FSD with Python\Daywise content\Day16\Day16\Day16\obj\Debug\net10.0\Day16.csproj.CoreCompileInputs.cache
+D:\uGE_Dotnet FSD with Python\Daywise content\Day16\Day16\Day16\obj\Debug\net10.0\Day16.sourcelink.json
+D:\uGE_Dotnet FSD with Python\Daywise content\Day16\Day16\Day16\obj\Debug\net10.0\Day16.dll
+D:\uGE_Dotnet FSD with Python\Daywise content\Day16\Day16\Day16\obj\Debug\net10.0\refint\Day16.dll
+D:\uGE_Dotnet FSD with Python\Daywise content\Day16\Day16\Day16\obj\Debug\net10.0\Day16.pdb
+D:\uGE_Dotnet FSD with Python\Daywise content\Day16\Day16\Day16\obj\Debug\net10.0\Day16.genruntimeconfig.cache
+D:\uGE_Dotnet FSD with Python\Daywise content\Day16\Day16\Day16\obj\Debug\net10.0\ref\Day16.dll
