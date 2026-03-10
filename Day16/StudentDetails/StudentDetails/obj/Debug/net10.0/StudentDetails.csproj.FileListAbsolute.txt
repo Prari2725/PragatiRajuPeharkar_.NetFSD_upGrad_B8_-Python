@@ -1,0 +1,15 @@
+D:\uGE_Dotnet FSD with Python\Daywise content\Day16\StudentDetails\StudentDetails\bin\Debug\net10.0\StudentDetails.exe
+D:\uGE_Dotnet FSD with Python\Daywise content\Day16\StudentDetails\StudentDetails\bin\Debug\net10.0\StudentDetails.deps.json
+D:\uGE_Dotnet FSD with Python\Daywise content\Day16\StudentDetails\StudentDetails\bin\Debug\net10.0\StudentDetails.runtimeconfig.json
+D:\uGE_Dotnet FSD with Python\Daywise content\Day16\StudentDetails\StudentDetails\bin\Debug\net10.0\StudentDetails.dll
+D:\uGE_Dotnet FSD with Python\Daywise content\Day16\StudentDetails\StudentDetails\bin\Debug\net10.0\StudentDetails.pdb
+D:\uGE_Dotnet FSD with Python\Daywise content\Day16\StudentDetails\StudentDetails\obj\Debug\net10.0\StudentDetails.GeneratedMSBuildEditorConfig.editorconfig
+D:\uGE_Dotnet FSD with Python\Daywise content\Day16\StudentDetails\StudentDetails\obj\Debug\net10.0\StudentDetails.AssemblyInfoInputs.cache
+D:\uGE_Dotnet FSD with Python\Daywise content\Day16\StudentDetails\StudentDetails\obj\Debug\net10.0\StudentDetails.AssemblyInfo.cs
+D:\uGE_Dotnet FSD with Python\Daywise content\Day16\StudentDetails\StudentDetails\obj\Debug\net10.0\StudentDetails.csproj.CoreCompileInputs.cache
+D:\uGE_Dotnet FSD with Python\Daywise content\Day16\StudentDetails\StudentDetails\obj\Debug\net10.0\StudentDetails.sourcelink.json
+D:\uGE_Dotnet FSD with Python\Daywise content\Day16\StudentDetails\StudentDetails\obj\Debug\net10.0\StudentDetails.dll
+D:\uGE_Dotnet FSD with Python\Daywise content\Day16\StudentDetails\StudentDetails\obj\Debug\net10.0\refint\StudentDetails.dll
+D:\uGE_Dotnet FSD with Python\Daywise content\Day16\StudentDetails\StudentDetails\obj\Debug\net10.0\StudentDetails.pdb
+D:\uGE_Dotnet FSD with Python\Daywise content\Day16\StudentDetails\StudentDetails\obj\Debug\net10.0\StudentDetails.genruntimeconfig.cache
+D:\uGE_Dotnet FSD with Python\Daywise content\Day16\StudentDetails\StudentDetails\obj\Debug\net10.0\ref\StudentDetails.dll
