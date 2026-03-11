@@ -1,0 +1,15 @@
+D:\uGE_Dotnet FSD with Python\Daywise content\Day18\EncapsulationEg\EncapsulationEg\bin\Debug\net10.0\EncapsulationEg.exe
+D:\uGE_Dotnet FSD with Python\Daywise content\Day18\EncapsulationEg\EncapsulationEg\bin\Debug\net10.0\EncapsulationEg.deps.json
+D:\uGE_Dotnet FSD with Python\Daywise content\Day18\EncapsulationEg\EncapsulationEg\bin\Debug\net10.0\EncapsulationEg.runtimeconfig.json
+D:\uGE_Dotnet FSD with Python\Daywise content\Day18\EncapsulationEg\EncapsulationEg\bin\Debug\net10.0\EncapsulationEg.dll
+D:\uGE_Dotnet FSD with Python\Daywise content\Day18\EncapsulationEg\EncapsulationEg\bin\Debug\net10.0\EncapsulationEg.pdb
+D:\uGE_Dotnet FSD with Python\Daywise content\Day18\EncapsulationEg\EncapsulationEg\obj\Debug\net10.0\EncapsulationEg.GeneratedMSBuildEditorConfig.editorconfig
+D:\uGE_Dotnet FSD with Python\Daywise content\Day18\EncapsulationEg\EncapsulationEg\obj\Debug\net10.0\EncapsulationEg.AssemblyInfoInputs.cache
+D:\uGE_Dotnet FSD with Python\Daywise content\Day18\EncapsulationEg\EncapsulationEg\obj\Debug\net10.0\EncapsulationEg.AssemblyInfo.cs
+D:\uGE_Dotnet FSD with Python\Daywise content\Day18\EncapsulationEg\EncapsulationEg\obj\Debug\net10.0\EncapsulationEg.csproj.CoreCompileInputs.cache
+D:\uGE_Dotnet FSD with Python\Daywise content\Day18\EncapsulationEg\EncapsulationEg\obj\Debug\net10.0\EncapsulationEg.sourcelink.json
+D:\uGE_Dotnet FSD with Python\Daywise content\Day18\EncapsulationEg\EncapsulationEg\obj\Debug\net10.0\EncapsulationEg.dll
+D:\uGE_Dotnet FSD with Python\Daywise content\Day18\EncapsulationEg\EncapsulationEg\obj\Debug\net10.0\refint\EncapsulationEg.dll
+D:\uGE_Dotnet FSD with Python\Daywise content\Day18\EncapsulationEg\EncapsulationEg\obj\Debug\net10.0\EncapsulationEg.pdb
+D:\uGE_Dotnet FSD with Python\Daywise content\Day18\EncapsulationEg\EncapsulationEg\obj\Debug\net10.0\EncapsulationEg.genruntimeconfig.cache
+D:\uGE_Dotnet FSD with Python\Daywise content\Day18\EncapsulationEg\EncapsulationEg\obj\Debug\net10.0\ref\EncapsulationEg.dll
