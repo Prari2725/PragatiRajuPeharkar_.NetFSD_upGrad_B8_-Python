@@ -1,0 +1,15 @@
+D:\uGE_Dotnet FSD with Python\Daywise content\Day18\oops\oops\bin\Debug\net10.0\oops.exe
+D:\uGE_Dotnet FSD with Python\Daywise content\Day18\oops\oops\bin\Debug\net10.0\oops.deps.json
+D:\uGE_Dotnet FSD with Python\Daywise content\Day18\oops\oops\bin\Debug\net10.0\oops.runtimeconfig.json
+D:\uGE_Dotnet FSD with Python\Daywise content\Day18\oops\oops\bin\Debug\net10.0\oops.dll
+D:\uGE_Dotnet FSD with Python\Daywise content\Day18\oops\oops\bin\Debug\net10.0\oops.pdb
+D:\uGE_Dotnet FSD with Python\Daywise content\Day18\oops\oops\obj\Debug\net10.0\oops.GeneratedMSBuildEditorConfig.editorconfig
+D:\uGE_Dotnet FSD with Python\Daywise content\Day18\oops\oops\obj\Debug\net10.0\oops.AssemblyInfoInputs.cache
+D:\uGE_Dotnet FSD with Python\Daywise content\Day18\oops\oops\obj\Debug\net10.0\oops.AssemblyInfo.cs
+D:\uGE_Dotnet FSD with Python\Daywise content\Day18\oops\oops\obj\Debug\net10.0\oops.csproj.CoreCompileInputs.cache
+D:\uGE_Dotnet FSD with Python\Daywise content\Day18\oops\oops\obj\Debug\net10.0\oops.sourcelink.json
+D:\uGE_Dotnet FSD with Python\Daywise content\Day18\oops\oops\obj\Debug\net10.0\oops.dll
+D:\uGE_Dotnet FSD with Python\Daywise content\Day18\oops\oops\obj\Debug\net10.0\refint\oops.dll
+D:\uGE_Dotnet FSD with Python\Daywise content\Day18\oops\oops\obj\Debug\net10.0\oops.pdb
+D:\uGE_Dotnet FSD with Python\Daywise content\Day18\oops\oops\obj\Debug\net10.0\oops.genruntimeconfig.cache
+D:\uGE_Dotnet FSD with Python\Daywise content\Day18\oops\oops\obj\Debug\net10.0\ref\oops.dll
