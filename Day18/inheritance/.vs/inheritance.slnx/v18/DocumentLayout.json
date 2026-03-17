@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\uGE_Dotnet FSD with Python\\Daywise content\\Day18\\inheritance\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{635B7262-C5FA-7CC6-1A18-D61D1D53B063}|inheritance\\inheritance.csproj|d:\\uge_dotnet fsd with python\\daywise content\\day18\\inheritance\\inheritance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{635B7262-C5FA-7CC6-1A18-D61D1D53B063}|inheritance\\inheritance.csproj|solutionrelative:inheritance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\uGE_Dotnet FSD with Python\\Daywise content\\Day18\\inheritance\\inheritance\\Program.cs",
+              "RelativeDocumentMoniker": "inheritance\\Program.cs",
+              "ToolTip": "D:\\uGE_Dotnet FSD with Python\\Daywise content\\Day18\\inheritance\\inheritance\\Program.cs",
+              "RelativeToolTip": "inheritance\\Program.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAIwAwAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T10:12:07.026Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+D:\uGE_Dotnet FSD with Python\Daywise content\Day21\linqprob1\linqprob1\obj\Debug\net10.0\linqprob1.GeneratedMSBuildEditorConfig.editorconfig
+D:\uGE_Dotnet FSD with Python\Daywise content\Day21\linqprob1\linqprob1\obj\Debug\net10.0\linqprob1.AssemblyInfoInputs.cache
+D:\uGE_Dotnet FSD with Python\Daywise content\Day21\linqprob1\linqprob1\obj\Debug\net10.0\linqprob1.AssemblyInfo.cs
+D:\uGE_Dotnet FSD with Python\Daywise content\Day21\linqprob1\linqprob1\obj\Debug\net10.0\linqprob1.csproj.CoreCompileInputs.cache
+D:\uGE_Dotnet FSD with Python\Daywise content\Day21\linqprob1\linqprob1\obj\Debug\net10.0\linqprob1.sourcelink.json
+D:\uGE_Dotnet FSD with Python\Daywise content\Day21\linqprob1\linqprob1\bin\Debug\net10.0\linqprob1.exe
+D:\uGE_Dotnet FSD with Python\Daywise content\Day21\linqprob1\linqprob1\bin\Debug\net10.0\linqprob1.deps.json
+D:\uGE_Dotnet FSD with Python\Daywise content\Day21\linqprob1\linqprob1\bin\Debug\net10.0\linqprob1.runtimeconfig.json
+D:\uGE_Dotnet FSD with Python\Daywise content\Day21\linqprob1\linqprob1\bin\Debug\net10.0\linqprob1.dll
+D:\uGE_Dotnet FSD with Python\Daywise content\Day21\linqprob1\linqprob1\bin\Debug\net10.0\linqprob1.pdb
+D:\uGE_Dotnet FSD with Python\Daywise content\Day21\linqprob1\linqprob1\obj\Debug\net10.0\linqprob1.dll
+D:\uGE_Dotnet FSD with Python\Daywise content\Day21\linqprob1\linqprob1\obj\Debug\net10.0\refint\linqprob1.dll
+D:\uGE_Dotnet FSD with Python\Daywise content\Day21\linqprob1\linqprob1\obj\Debug\net10.0\linqprob1.pdb
+D:\uGE_Dotnet FSD with Python\Daywise content\Day21\linqprob1\linqprob1\obj\Debug\net10.0\linqprob1.genruntimeconfig.cache
+D:\uGE_Dotnet FSD with Python\Daywise content\Day21\linqprob1\linqprob1\obj\Debug\net10.0\ref\linqprob1.dll

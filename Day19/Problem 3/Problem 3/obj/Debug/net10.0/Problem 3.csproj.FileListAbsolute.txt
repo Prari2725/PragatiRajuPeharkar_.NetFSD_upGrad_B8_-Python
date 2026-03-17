@@ -1,0 +1,15 @@
+D:\uGE_Dotnet FSD with Python\Daywise content\Day19\Problem 3\Problem 3\bin\Debug\net10.0\Problem 3.exe
+D:\uGE_Dotnet FSD with Python\Daywise content\Day19\Problem 3\Problem 3\bin\Debug\net10.0\Problem 3.deps.json
+D:\uGE_Dotnet FSD with Python\Daywise content\Day19\Problem 3\Problem 3\bin\Debug\net10.0\Problem 3.runtimeconfig.json
+D:\uGE_Dotnet FSD with Python\Daywise content\Day19\Problem 3\Problem 3\bin\Debug\net10.0\Problem 3.dll
+D:\uGE_Dotnet FSD with Python\Daywise content\Day19\Problem 3\Problem 3\bin\Debug\net10.0\Problem 3.pdb
+D:\uGE_Dotnet FSD with Python\Daywise content\Day19\Problem 3\Problem 3\obj\Debug\net10.0\Problem 3.GeneratedMSBuildEditorConfig.editorconfig
+D:\uGE_Dotnet FSD with Python\Daywise content\Day19\Problem 3\Problem 3\obj\Debug\net10.0\Problem 3.AssemblyInfoInputs.cache
+D:\uGE_Dotnet FSD with Python\Daywise content\Day19\Problem 3\Problem 3\obj\Debug\net10.0\Problem 3.AssemblyInfo.cs
+D:\uGE_Dotnet FSD with Python\Daywise content\Day19\Problem 3\Problem 3\obj\Debug\net10.0\Problem 3.csproj.CoreCompileInputs.cache
+D:\uGE_Dotnet FSD with Python\Daywise content\Day19\Problem 3\Problem 3\obj\Debug\net10.0\Problem 3.sourcelink.json
+D:\uGE_Dotnet FSD with Python\Daywise content\Day19\Problem 3\Problem 3\obj\Debug\net10.0\Problem 3.dll
+D:\uGE_Dotnet FSD with Python\Daywise content\Day19\Problem 3\Problem 3\obj\Debug\net10.0\refint\Problem 3.dll
+D:\uGE_Dotnet FSD with Python\Daywise content\Day19\Problem 3\Problem 3\obj\Debug\net10.0\Problem 3.pdb
+D:\uGE_Dotnet FSD with Python\Daywise content\Day19\Problem 3\Problem 3\obj\Debug\net10.0\Problem 3.genruntimeconfig.cache
+D:\uGE_Dotnet FSD with Python\Daywise content\Day19\Problem 3\Problem 3\obj\Debug\net10.0\ref\Problem 3.dll
