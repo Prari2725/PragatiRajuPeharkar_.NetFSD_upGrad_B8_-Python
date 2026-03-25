@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("fileip")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+65689c2e6bedd5fddc022b9a590ae20dff2171ee")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+79f0e58889535f200541f282b01d1bea9d68153c")]
 [assembly: System.Reflection.AssemblyProductAttribute("fileip")]
 [assembly: System.Reflection.AssemblyTitleAttribute("fileip")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

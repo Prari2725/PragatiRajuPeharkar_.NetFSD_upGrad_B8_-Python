@@ -1,0 +1,15 @@
+D:\uGE_Dotnet FSD with Python\Daywise content\Day22\fileip\fileip\obj\Debug\net10.0\fileip.GeneratedMSBuildEditorConfig.editorconfig
+D:\uGE_Dotnet FSD with Python\Daywise content\Day22\fileip\fileip\obj\Debug\net10.0\fileip.AssemblyInfoInputs.cache
+D:\uGE_Dotnet FSD with Python\Daywise content\Day22\fileip\fileip\obj\Debug\net10.0\fileip.AssemblyInfo.cs
+D:\uGE_Dotnet FSD with Python\Daywise content\Day22\fileip\fileip\obj\Debug\net10.0\fileip.csproj.CoreCompileInputs.cache
+D:\uGE_Dotnet FSD with Python\Daywise content\Day22\fileip\fileip\obj\Debug\net10.0\fileip.sourcelink.json
+D:\uGE_Dotnet FSD with Python\Daywise content\Day22\fileip\fileip\bin\Debug\net10.0\fileip.exe
+D:\uGE_Dotnet FSD with Python\Daywise content\Day22\fileip\fileip\bin\Debug\net10.0\fileip.deps.json
+D:\uGE_Dotnet FSD with Python\Daywise content\Day22\fileip\fileip\bin\Debug\net10.0\fileip.runtimeconfig.json
+D:\uGE_Dotnet FSD with Python\Daywise content\Day22\fileip\fileip\bin\Debug\net10.0\fileip.dll
+D:\uGE_Dotnet FSD with Python\Daywise content\Day22\fileip\fileip\bin\Debug\net10.0\fileip.pdb
+D:\uGE_Dotnet FSD with Python\Daywise content\Day22\fileip\fileip\obj\Debug\net10.0\fileip.dll
+D:\uGE_Dotnet FSD with Python\Daywise content\Day22\fileip\fileip\obj\Debug\net10.0\refint\fileip.dll
+D:\uGE_Dotnet FSD with Python\Daywise content\Day22\fileip\fileip\obj\Debug\net10.0\fileip.pdb
+D:\uGE_Dotnet FSD with Python\Daywise content\Day22\fileip\fileip\obj\Debug\net10.0\fileip.genruntimeconfig.cache
+D:\uGE_Dotnet FSD with Python\Daywise content\Day22\fileip\fileip\obj\Debug\net10.0\ref\fileip.dll
