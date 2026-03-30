@@ -1,0 +1,40 @@
+﻿
+	<title>@ViewData["Title"]</title>
+
+	<h1>@ViewData["Header"]</h1>
+
+
+
+
+
+
+@* for printing single data*@
+
+@{
+	var s1=ViewData["Student"] as coremvc1.Models.Student;
+
+}
+@if (s1 != null)
+{
+    <div>@s1.StudentId</div>
+    <div>@s1.Name</div>
+    <div>@s1.Age</div>
+    <div>@s1.Branch</div>
+}
+
+
+@*for printing multiple data of student in list*@
+
+@{
+    var students = ViewData["Student1"] as List<coremvc1.Models.Student>;
+}
+
+@if (students != null)
+{
+@foreach(var s in ViewData["Student1"] as List<coremvc1.Models.Student>){
+	<li>@s.StudentId</li>
+	<li>@s.Name</li>
+	<li>@s.Age</li>
+	<li>@s.Branch</li>
+	}
+}

@@ -1,0 +1,6 @@
+﻿@model ContactInfo
+
+<form method="post" action="/Contact/DeleteContact/@Model.ContactId"
+      onsubmit="return confirm('Are you sure?');">
+    <button type="submit" class="btn btn-danger">Delete</button>
+</form>

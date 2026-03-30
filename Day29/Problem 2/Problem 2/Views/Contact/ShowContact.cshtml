@@ -1,0 +1,51 @@
+﻿@model List<Problem_2.Models.ContactInfo>
+<center>
+<h2>Contact List</h2>
+<a href="/Contact/AddContact" class="btn btn-primary">Add New Contact</a>
+<br /><br />
+
+
+
+<table border="2" cellspacing="4" cellpadding="4">
+	<tr >
+		<th>Id</th>
+		<th>FirstName</th>
+		<th>LastName</th>
+		<th>CompanyName</th>
+		<th>EmailId</th>
+		<th>Mobile</th>
+		<th>Designation</th>
+		<th>Edit</th>
+		<th>Delete</th>
+
+	</tr>
+	@foreach (var items in Model)
+	{
+		<tr>
+			<td>@items.ContactId</td>
+			<td>@items.FirstName</td>
+			<td>@items.LastName</td>
+			<td>@items.CompanyName</td>
+			<td>@items.EmailId</td>
+			<td>@items.Mobile</td>
+			<td>@items.Designation</td>
+			<td>
+				<a href="/Contact/EditContact/@items.ContactId" class="btn btn-success">Edit</a>
+			</td>
+			
+				<td>
+					<form asp-action="DeleteContact" asp-controller="Contact" method="post"
+						  onsubmit="return confirm('Are you sure you want to delete?');">
+						<input type="hidden" name="id" value="@items.ContactId" />
+						<button type="submit" class="btn btn-danger">Delete</button>
+					</form>
+				
+			</td>
+		</tr>
+		
+	}
+
+	
+</table>
+
+</center>

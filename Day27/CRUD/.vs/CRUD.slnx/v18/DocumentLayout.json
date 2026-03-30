@@ -3,28 +3,28 @@
   "WorkspaceRootPath": "D:\\uGE_Dotnet FSD with Python\\Daywise content\\Day27\\CRUD\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7BCABAAB-8AC3-474D-9C6B-1C0BC6A908C5}|CRUD\\CRUD.csproj|d:\\uge_dotnet fsd with python\\daywise content\\day27\\crud\\crud\\view\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7BCABAAB-8AC3-474D-9C6B-1C0BC6A908C5}|CRUD\\CRUD.csproj|solutionrelative:crud\\view\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{6EDAA9A8-EC3D-08E8-FA5D-8A70ADF609EF}|CRUD\\CRUD.csproj|d:\\uge_dotnet fsd with python\\daywise content\\day27\\crud\\crud\\view\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6EDAA9A8-EC3D-08E8-FA5D-8A70ADF609EF}|CRUD\\CRUD.csproj|solutionrelative:crud\\view\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7BCABAAB-8AC3-474D-9C6B-1C0BC6A908C5}|CRUD\\CRUD.csproj|d:\\uge_dotnet fsd with python\\daywise content\\day27\\crud\\crud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7BCABAAB-8AC3-474D-9C6B-1C0BC6A908C5}|CRUD\\CRUD.csproj|solutionrelative:crud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6EDAA9A8-EC3D-08E8-FA5D-8A70ADF609EF}|CRUD\\CRUD.csproj|d:\\uge_dotnet fsd with python\\daywise content\\day27\\crud\\crud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EDAA9A8-EC3D-08E8-FA5D-8A70ADF609EF}|CRUD\\CRUD.csproj|solutionrelative:crud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7BCABAAB-8AC3-474D-9C6B-1C0BC6A908C5}|CRUD\\CRUD.csproj|d:\\uge_dotnet fsd with python\\daywise content\\day27\\crud\\crud\\model\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7BCABAAB-8AC3-474D-9C6B-1C0BC6A908C5}|CRUD\\CRUD.csproj|solutionrelative:crud\\model\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6EDAA9A8-EC3D-08E8-FA5D-8A70ADF609EF}|CRUD\\CRUD.csproj|d:\\uge_dotnet fsd with python\\daywise content\\day27\\crud\\crud\\view\\thanks.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6EDAA9A8-EC3D-08E8-FA5D-8A70ADF609EF}|CRUD\\CRUD.csproj|solutionrelative:crud\\view\\thanks.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7BCABAAB-8AC3-474D-9C6B-1C0BC6A908C5}|CRUD\\CRUD.csproj|d:\\uge_dotnet fsd with python\\daywise content\\day27\\crud\\crud\\model\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7BCABAAB-8AC3-474D-9C6B-1C0BC6A908C5}|CRUD\\CRUD.csproj|solutionrelative:crud\\model\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6EDAA9A8-EC3D-08E8-FA5D-8A70ADF609EF}|CRUD\\CRUD.csproj|d:\\uge_dotnet fsd with python\\daywise content\\day27\\crud\\crud\\controllers\\employeecontroller .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EDAA9A8-EC3D-08E8-FA5D-8A70ADF609EF}|CRUD\\CRUD.csproj|solutionrelative:crud\\controllers\\employeecontroller .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7BCABAAB-8AC3-474D-9C6B-1C0BC6A908C5}|CRUD\\CRUD.csproj|d:\\uge_dotnet fsd with python\\daywise content\\day27\\crud\\crud\\controllers\\employeecontroller .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7BCABAAB-8AC3-474D-9C6B-1C0BC6A908C5}|CRUD\\CRUD.csproj|solutionrelative:crud\\controllers\\employeecontroller .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6EDAA9A8-EC3D-08E8-FA5D-8A70ADF609EF}|CRUD\\CRUD.csproj|d:\\uge_dotnet fsd with python\\daywise content\\day27\\crud\\crud\\model\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EDAA9A8-EC3D-08E8-FA5D-8A70ADF609EF}|CRUD\\CRUD.csproj|solutionrelative:crud\\model\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7BCABAAB-8AC3-474D-9C6B-1C0BC6A908C5}|CRUD\\CRUD.csproj|d:\\uge_dotnet fsd with python\\daywise content\\day27\\crud\\crud\\view\\thanks.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7BCABAAB-8AC3-474D-9C6B-1C0BC6A908C5}|CRUD\\CRUD.csproj|solutionrelative:crud\\view\\thanks.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{6EDAA9A8-EC3D-08E8-FA5D-8A70ADF609EF}|CRUD\\CRUD.csproj|d:\\uge_dotnet fsd with python\\daywise content\\day27\\crud\\crud\\model\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EDAA9A8-EC3D-08E8-FA5D-8A70ADF609EF}|CRUD\\CRUD.csproj|solutionrelative:crud\\model\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -47,8 +47,7 @@
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-24T10:44:52.719Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -65,7 +64,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "Thanks.cshtml",
               "DocumentMoniker": "D:\\uGE_Dotnet FSD with Python\\Daywise content\\Day27\\CRUD\\CRUD\\View\\Thanks.cshtml",
               "RelativeDocumentMoniker": "CRUD\\View\\Thanks.cshtml",
@@ -73,12 +72,11 @@
               "RelativeToolTip": "CRUD\\View\\Thanks.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-24T10:56:24.312Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-24T10:56:24.312Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "EmployeeController .cs",
               "DocumentMoniker": "D:\\uGE_Dotnet FSD with Python\\Daywise content\\Day27\\CRUD\\CRUD\\Controllers\\EmployeeController .cs",
               "RelativeDocumentMoniker": "CRUD\\Controllers\\EmployeeController .cs",
@@ -86,12 +84,11 @@
               "RelativeToolTip": "CRUD\\Controllers\\EmployeeController .cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-24T10:45:35.431Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-24T10:45:35.431Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Employee.cs",
               "DocumentMoniker": "D:\\uGE_Dotnet FSD with Python\\Daywise content\\Day27\\CRUD\\CRUD\\Model\\Employee.cs",
               "RelativeDocumentMoniker": "CRUD\\Model\\Employee.cs",
@@ -99,12 +96,11 @@
               "RelativeToolTip": "CRUD\\Model\\Employee.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-24T10:30:40.288Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-24T10:30:40.288Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Repository.cs",
               "DocumentMoniker": "D:\\uGE_Dotnet FSD with Python\\Daywise content\\Day27\\CRUD\\CRUD\\Model\\Repository.cs",
               "RelativeDocumentMoniker": "CRUD\\Model\\Repository.cs",
@@ -112,8 +108,7 @@
               "RelativeToolTip": "CRUD\\Model\\Repository.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAADwvw8AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-24T10:29:41.817Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-24T10:29:41.817Z"
             }
           ]
         }

@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\uGE_Dotnet FSD with Python\\Daywise content\\Day29\\Problem 2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BC284098-5469-4D41-AD39-CF9728DBB5D4}|Problem 2\\Problem 2.csproj|d:\\uge_dotnet fsd with python\\daywise content\\day29\\problem 2\\problem 2\\views\\contact\\showcontact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BC284098-5469-4D41-AD39-CF9728DBB5D4}|Problem 2\\Problem 2.csproj|solutionrelative:problem 2\\views\\contact\\showcontact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC284098-5469-4D41-AD39-CF9728DBB5D4}|Problem 2\\Problem 2.csproj|d:\\uge_dotnet fsd with python\\daywise content\\day29\\problem 2\\problem 2\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC284098-5469-4D41-AD39-CF9728DBB5D4}|Problem 2\\Problem 2.csproj|solutionrelative:problem 2\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC284098-5469-4D41-AD39-CF9728DBB5D4}|Problem 2\\Problem 2.csproj|d:\\uge_dotnet fsd with python\\daywise content\\day29\\problem 2\\problem 2\\views\\contact\\addcontact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BC284098-5469-4D41-AD39-CF9728DBB5D4}|Problem 2\\Problem 2.csproj|solutionrelative:problem 2\\views\\contact\\addcontact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC284098-5469-4D41-AD39-CF9728DBB5D4}|Problem 2\\Problem 2.csproj|d:\\uge_dotnet fsd with python\\daywise content\\day29\\problem 2\\problem 2\\models\\contactinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC284098-5469-4D41-AD39-CF9728DBB5D4}|Problem 2\\Problem 2.csproj|solutionrelative:problem 2\\models\\contactinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC284098-5469-4D41-AD39-CF9728DBB5D4}|Problem 2\\Problem 2.csproj|d:\\uge_dotnet fsd with python\\daywise content\\day29\\problem 2\\problem 2\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC284098-5469-4D41-AD39-CF9728DBB5D4}|Problem 2\\Problem 2.csproj|solutionrelative:problem 2\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC284098-5469-4D41-AD39-CF9728DBB5D4}|Problem 2\\Problem 2.csproj|d:\\uge_dotnet fsd with python\\daywise content\\day29\\problem 2\\problem 2\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BC284098-5469-4D41-AD39-CF9728DBB5D4}|Problem 2\\Problem 2.csproj|solutionrelative:problem 2\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC284098-5469-4D41-AD39-CF9728DBB5D4}|Problem 2\\Problem 2.csproj|d:\\uge_dotnet fsd with python\\daywise content\\day29\\problem 2\\problem 2\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BC284098-5469-4D41-AD39-CF9728DBB5D4}|Problem 2\\Problem 2.csproj|solutionrelative:problem 2\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC284098-5469-4D41-AD39-CF9728DBB5D4}|Problem 2\\Problem 2.csproj|d:\\uge_dotnet fsd with python\\daywise content\\day29\\problem 2\\problem 2\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{BC284098-5469-4D41-AD39-CF9728DBB5D4}|Problem 2\\Problem 2.csproj|solutionrelative:problem 2\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC284098-5469-4D41-AD39-CF9728DBB5D4}|Problem 2\\Problem 2.csproj|d:\\uge_dotnet fsd with python\\daywise content\\day29\\problem 2\\problem 2\\views\\contact\\getcontactbyid.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BC284098-5469-4D41-AD39-CF9728DBB5D4}|Problem 2\\Problem 2.csproj|solutionrelative:problem 2\\views\\contact\\getcontactbyid.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC284098-5469-4D41-AD39-CF9728DBB5D4}|Problem 2\\Problem 2.csproj|d:\\uge_dotnet fsd with python\\daywise content\\day29\\problem 2\\problem 2\\views\\contact\\deletecontact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BC284098-5469-4D41-AD39-CF9728DBB5D4}|Problem 2\\Problem 2.csproj|solutionrelative:problem 2\\views\\contact\\deletecontact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC284098-5469-4D41-AD39-CF9728DBB5D4}|Problem 2\\Problem 2.csproj|d:\\uge_dotnet fsd with python\\daywise content\\day29\\problem 2\\problem 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC284098-5469-4D41-AD39-CF9728DBB5D4}|Problem 2\\Problem 2.csproj|solutionrelative:problem 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC284098-5469-4D41-AD39-CF9728DBB5D4}|Problem 2\\Problem 2.csproj|d:\\uge_dotnet fsd with python\\daywise content\\day29\\problem 2\\problem 2\\views\\contact\\editcontact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BC284098-5469-4D41-AD39-CF9728DBB5D4}|Problem 2\\Problem 2.csproj|solutionrelative:problem 2\\views\\contact\\editcontact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\uGE_Dotnet FSD with Python\\Daywise content\\Day29\\Problem 2\\Problem 2\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Problem 2\\Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\uGE_Dotnet FSD with Python\\Daywise content\\Day29\\Problem 2\\Problem 2\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Problem 2\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T06:51:00.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\uGE_Dotnet FSD with Python\\Daywise content\\Day29\\Problem 2\\Problem 2\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Problem 2\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\uGE_Dotnet FSD with Python\\Daywise content\\Day29\\Problem 2\\Problem 2\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Problem 2\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-26T06:50:32.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\uGE_Dotnet FSD with Python\\Daywise content\\Day29\\Problem 2\\Problem 2\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Problem 2\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\uGE_Dotnet FSD with Python\\Daywise content\\Day29\\Problem 2\\Problem 2\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Problem 2\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-26T06:50:29.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ContactInfo.cs",
+              "DocumentMoniker": "D:\\uGE_Dotnet FSD with Python\\Daywise content\\Day29\\Problem 2\\Problem 2\\Models\\ContactInfo.cs",
+              "RelativeDocumentMoniker": "Problem 2\\Models\\ContactInfo.cs",
+              "ToolTip": "D:\\uGE_Dotnet FSD with Python\\Daywise content\\Day29\\Problem 2\\Problem 2\\Models\\ContactInfo.cs",
+              "RelativeToolTip": "Problem 2\\Models\\ContactInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAowA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T04:46:35.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ContactController.cs",
+              "DocumentMoniker": "D:\\uGE_Dotnet FSD with Python\\Daywise content\\Day29\\Problem 2\\Problem 2\\Controllers\\ContactController.cs",
+              "RelativeDocumentMoniker": "Problem 2\\Controllers\\ContactController.cs",
+              "ToolTip": "D:\\uGE_Dotnet FSD with Python\\Daywise content\\Day29\\Problem 2\\Problem 2\\Controllers\\ContactController.cs",
+              "RelativeToolTip": "Problem 2\\Controllers\\ContactController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAADwvy4AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T04:52:11.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddContact.cshtml",
+              "DocumentMoniker": "D:\\uGE_Dotnet FSD with Python\\Daywise content\\Day29\\Problem 2\\Problem 2\\Views\\Contact\\AddContact.cshtml",
+              "RelativeDocumentMoniker": "Problem 2\\Views\\Contact\\AddContact.cshtml",
+              "ToolTip": "D:\\uGE_Dotnet FSD with Python\\Daywise content\\Day29\\Problem 2\\Problem 2\\Views\\Contact\\AddContact.cshtml",
+              "RelativeToolTip": "Problem 2\\Views\\Contact\\AddContact.cshtml",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAmwBsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-26T05:57:53.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ShowContact.cshtml",
+              "DocumentMoniker": "D:\\uGE_Dotnet FSD with Python\\Daywise content\\Day29\\Problem 2\\Problem 2\\Views\\Contact\\ShowContact.cshtml",
+              "RelativeDocumentMoniker": "Problem 2\\Views\\Contact\\ShowContact.cshtml",
+              "ToolTip": "D:\\uGE_Dotnet FSD with Python\\Daywise content\\Day29\\Problem 2\\Problem 2\\Views\\Contact\\ShowContact.cshtml",
+              "RelativeToolTip": "Problem 2\\Views\\Contact\\ShowContact.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACAAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-26T04:53:30.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "site.js",
+              "DocumentMoniker": "D:\\uGE_Dotnet FSD with Python\\Daywise content\\Day29\\Problem 2\\Problem 2\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "Problem 2\\wwwroot\\js\\site.js",
+              "ToolTip": "D:\\uGE_Dotnet FSD with Python\\Daywise content\\Day29\\Problem 2\\Problem 2\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "Problem 2\\wwwroot\\js\\site.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-03-26T06:50:45.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DeleteContact.cshtml",
+              "DocumentMoniker": "D:\\uGE_Dotnet FSD with Python\\Daywise content\\Day29\\Problem 2\\Problem 2\\Views\\Contact\\DeleteContact.cshtml",
+              "RelativeDocumentMoniker": "Problem 2\\Views\\Contact\\DeleteContact.cshtml",
+              "ToolTip": "D:\\uGE_Dotnet FSD with Python\\Daywise content\\Day29\\Problem 2\\Problem 2\\Views\\Contact\\DeleteContact.cshtml",
+              "RelativeToolTip": "Problem 2\\Views\\Contact\\DeleteContact.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-26T06:38:16.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EditContact.cshtml",
+              "DocumentMoniker": "D:\\uGE_Dotnet FSD with Python\\Daywise content\\Day29\\Problem 2\\Problem 2\\Views\\Contact\\EditContact.cshtml",
+              "RelativeDocumentMoniker": "Problem 2\\Views\\Contact\\EditContact.cshtml",
+              "ToolTip": "D:\\uGE_Dotnet FSD with Python\\Daywise content\\Day29\\Problem 2\\Problem 2\\Views\\Contact\\EditContact.cshtml",
+              "RelativeToolTip": "Problem 2\\Views\\Contact\\EditContact.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-26T06:25:39.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GetContactById.cshtml",
+              "DocumentMoniker": "D:\\uGE_Dotnet FSD with Python\\Daywise content\\Day29\\Problem 2\\Problem 2\\Views\\Contact\\GetContactById.cshtml",
+              "RelativeDocumentMoniker": "Problem 2\\Views\\Contact\\GetContactById.cshtml",
+              "ToolTip": "D:\\uGE_Dotnet FSD with Python\\Daywise content\\Day29\\Problem 2\\Problem 2\\Views\\Contact\\GetContactById.cshtml",
+              "RelativeToolTip": "Problem 2\\Views\\Contact\\GetContactById.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-26T05:40:14.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\uGE_Dotnet FSD with Python\\Daywise content\\Day29\\Problem 2\\Problem 2\\Program.cs",
+              "RelativeDocumentMoniker": "Problem 2\\Program.cs",
+              "ToolTip": "D:\\uGE_Dotnet FSD with Python\\Daywise content\\Day29\\Problem 2\\Problem 2\\Program.cs",
+              "RelativeToolTip": "Problem 2\\Program.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAACcAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T04:53:43.777Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\uGE_Dotnet FSD with Python\\Daywise content\\Day29\\Problem 2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BC284098-5469-4D41-AD39-CF9728DBB5D4}|Problem 2\\Problem 2.csproj|d:\\uge_dotnet fsd with python\\daywise content\\day29\\problem 2\\problem 2\\views\\contact\\getcontactbyid.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BC284098-5469-4D41-AD39-CF9728DBB5D4}|Problem 2\\Problem 2.csproj|solutionrelative:problem 2\\views\\contact\\getcontactbyid.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GetContactById.cshtml",
+              "DocumentMoniker": "D:\\uGE_Dotnet FSD with Python\\Daywise content\\Day29\\Problem 2\\Problem 2\\Views\\Contact\\GetContactById.cshtml",
+              "RelativeDocumentMoniker": "Problem 2\\Views\\Contact\\GetContactById.cshtml",
+              "ToolTip": "D:\\uGE_Dotnet FSD with Python\\Daywise content\\Day29\\Problem 2\\Problem 2\\Views\\Contact\\GetContactById.cshtml",
+              "RelativeToolTip": "Problem 2\\Views\\Contact\\GetContactById.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-26T07:30:35.499Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
