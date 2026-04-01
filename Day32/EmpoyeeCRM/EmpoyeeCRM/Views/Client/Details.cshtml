@@ -1,0 +1,36 @@
+﻿@model EmpoyeeCRM.Models.Client
+
+@{
+    ViewData["Title"] = "Client Details";
+}
+
+<div class="container mt-5">
+    <div class="card shadow p-4">
+        <h2 class="text-center mb-4">Client Details</h2>
+
+        <div class="row mb-3">
+            <div class="col-md-4 fw-bold">Client Name</div>
+            <div class="col-md-8">@Model.ClientName</div>
+        </div>
+
+        <div class="row mb-3">
+            <div class="col-md-4 fw-bold">Project Name</div>
+            <div class="col-md-8">@Model.ProjectName</div>
+        </div>
+
+        <div class="row mb-3">
+            <div class="col-md-4 fw-bold">Project Value</div>
+            <div class="col-md-8">@Model.ProjectValue</div>
+        </div>
+
+        <div class="row mb-4">
+            <div class="col-md-4 fw-bold">Employee</div>
+            <div class="col-md-8">@Model.Employee?.Name</div>
+        </div>
+
+        <div class="text-center">
+            <a asp-action="Edit" asp-route-id="@Model.ClientId" class="btn btn-warning me-2">Edit</a>
+            <a asp-action="Index" class="btn btn-secondary">Back to List</a>
+        </div>
+    </div>
+</div>

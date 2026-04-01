@@ -1,0 +1,60 @@
+﻿@model EmpoyeeCRM.Models.Employee
+
+<div class="container mt-5">
+    <div class="card shadow p-4">
+        <h2 class="text-center mb-4">Employee Details</h2>
+
+        <div class="row mb-3">
+            <div class="col-md-4 fw-bold">Name:</div>
+            <div class="col-md-8">@Model.Name</div>
+        </div>
+
+        <div class="row mb-3">
+            <div class="col-md-4 fw-bold">Email:</div>
+            <div class="col-md-8">@Model.Email</div>
+        </div>
+
+        <div class="row mb-3">
+            <div class="col-md-4 fw-bold">Department:</div>
+            <div class="col-md-8">@Model.Department</div>
+        </div>
+
+        <div class="row mb-4">
+            <div class="col-md-4 fw-bold">Experience:</div>
+            <div class="col-md-8">@Model.ExperienceYears Years</div>
+        </div>
+
+        <hr />
+
+        <h4>Clients</h4>
+
+        @if (Model.Clients != null && Model.Clients.Any())
+        {
+            <table class="table table-bordered mt-3">
+                <thead class="table-dark">
+                    <tr>
+                        <th>Client Name</th>
+                        <th>Project Name</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var c in Model.Clients)
+                    {
+                        <tr>
+                            <td>@c.ClientName</td>
+                            <td>@c.ProjectName</td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        }
+        else
+        {
+            <p class="text-muted">No clients assigned</p>
+        }
+
+        <div class="mt-4 text-center">
+            <a asp-action="Index" class="btn btn-secondary">Back</a>
+        </div>
+    </div>
+</div>

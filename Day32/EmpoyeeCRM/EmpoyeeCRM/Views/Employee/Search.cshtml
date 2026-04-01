@@ -1,0 +1,47 @@
+﻿@model IEnumerable<EmpoyeeCRM.Models.Employee>
+
+@{
+    ViewData["Title"] = "Employee List";
+}
+
+<h2>Employee List</h2>
+
+<!-- 🔍 Search Form -->
+<form asp-action="Search" method="get">
+    <input type="text" name="dept" placeholder="Enter Department" />
+    <button type="submit">Search</button>
+</form>
+
+<br />
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>@Html.DisplayNameFor(model => model.Name)</th>
+            <th>@Html.DisplayNameFor(model => model.Email)</th>
+            <th>@Html.DisplayNameFor(model => model.Department)</th>
+            <th>@Html.DisplayNameFor(model => model.ExperienceYears)</th>
+        </tr>
+    </thead>
+
+    <tbody>
+        @if (Model != null && Model.Any())
+        {
+            foreach (var item in Model)
+            {
+                <tr>
+                    <td>@item.Name</td>
+                    <td>@item.Email</td>
+                    <td>@item.Department</td>
+                    <td>@item.ExperienceYears</td>
+                </tr>
+            }
+        }
+        else
+        {
+            <tr>
+                <td colspan="4">No data found</td>
+            </tr>
+        }
+    </tbody>
+</table>

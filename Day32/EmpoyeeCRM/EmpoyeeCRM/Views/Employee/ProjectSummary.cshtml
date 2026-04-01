@@ -1,0 +1,23 @@
+﻿@{
+    ViewData["Title"] = "ProjectSummary";
+}
+
+<h1>Project Summary</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Employee Name</th>
+            <th>Total Project Value</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in ViewBag.Summary)
+        {
+            <tr>
+                <td>@item.EmployeeName</td>
+                <td>@item.TotalValue</td>
+            </tr>
+        }
+    </tbody>
+</table>

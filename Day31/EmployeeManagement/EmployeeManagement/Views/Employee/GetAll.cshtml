@@ -1,0 +1,30 @@
+﻿@model  List<EmployeeManagement.Models.Employee>
+
+<h1>Employee List</h1>
+
+<a asp-action="Create" class="btn btn-primary">Add Employee</a>
+<br />
+<br/>
+<table border="2" cellpadding="2" cellspacing="2" class="table">
+	<tr>
+
+	<th>Id</th>
+	<th>Name</th>
+	<th>Age</th>
+	<th>Salary</th>
+	</tr>
+
+	@foreach(var items in Model){
+		<tr>
+			<td>@items.Id</td>
+			<td>@items.Name</td>
+			<td>@items.Age</td>
+			<td>@items.Salary</td>
+		</tr>
+
+		
+	}
+
+
+</table>
+

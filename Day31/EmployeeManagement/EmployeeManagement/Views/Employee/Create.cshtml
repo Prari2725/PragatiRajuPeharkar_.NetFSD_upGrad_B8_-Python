@@ -1,0 +1,25 @@
+﻿@model EmployeeManagement.Models.Employee
+
+<h1>Create Employee</h1>
+
+<form asp-action="Create" method="post">
+    @Html.AntiForgeryToken()
+
+    <div asp-validation-summary="All" class="text-danger"></div>
+
+    <input asp-for="Name" placeholder="Enter Name" />
+    <span asp-validation-for="Name" class="text-danger"></span>
+    <br />
+    <br />
+
+    <input asp-for="Age" placeholder="Enter Age" />
+    <br />
+    <br />
+
+    <input asp-for="Salary" placeholder="Enter Salary" />
+    <span asp-validation-for="Salary" class="text-danger"></span>
+    <br />
+    <br />
+
+    <button type="submit" class="btn btn-primary">Create</button>
+</form>

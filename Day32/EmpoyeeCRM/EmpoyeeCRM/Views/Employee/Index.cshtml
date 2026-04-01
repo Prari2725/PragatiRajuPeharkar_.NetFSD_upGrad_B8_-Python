@@ -1,0 +1,60 @@
+﻿@model IEnumerable<EmpoyeeCRM.Models.Employee>
+
+<div class="container mt-5">
+    <div class="card shadow p-4">
+
+        <div class="d-flex justify-content-between align-items-center mb-3">
+            <h2>Employees</h2>
+            <a asp-action="Create" class="btn btn-success">+ Add Employee</a>
+        </div>
+        <br />
+        <div class="mt-4">
+            <form asp-action="Search" method="get" class="d-flex">
+                <input type="text" name="dept" class="form-control me-2" placeholder="Enter Department Name" />
+                <button type="submit" class="btn btn-dark">Search</button>
+            </form>
+        </div>
+        <br />
+        <table class="table table-striped table-hover table-bordered text-center">
+            <thead class="table-dark">
+                <tr>
+                    <th>Name</th>
+                    <th>Email</th>
+                    <th>Department</th>
+                    <th>Experience</th>
+                    <th>Actions</th>
+                </tr>
+            </thead>
+
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>@item.Name</td>
+                        <td>@item.Email</td>
+                        <td>@item.Department</td>
+                        <td>@item.ExperienceYears</td>
+                        <td>
+                            <a asp-action="Edit" asp-route-id="@item.EmployeeId" class="btn btn-warning btn-sm">Edit</a>
+
+                            <a asp-action="Details" asp-route-id="@item.EmployeeId" class="btn btn-info btn-sm">Details</a>
+
+                            <a asp-action="Delete" asp-route-id="@item.EmployeeId" class="btn btn-danger btn-sm"
+                                   onclick="return confirm('Are you sure?');">
+                                Delete
+                            </a>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+
+        <div class="d-flex justify-content-between align-items-center ">
+            <a asp-action="TopEmployees" class="btn btn-primary"> Top Employee</a>
+            <a asp-action="ProjectSummary" class="btn btn-primary"> ProjectSummary</a>
+            <a asp-controller="Client" asp-action="Index" class="btn btn-primary"> Create clients</a>
+        </div>
+
+
+    </div>
+</div>

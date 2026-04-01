@@ -1,0 +1,39 @@
+﻿@model EmpoyeeCRM.Models.Client
+
+<div class="container mt-5">
+    <div class="row justify-content-center">
+        <div class="col-md-8 col-lg-6">
+            <div class="card shadow p-4">
+
+                <h2 class="text-center mb-4">Client Details</h2>
+
+                <div class="row mb-3">
+                    <div class="col-4 fw-bold">Client Name:</div>
+                    <div class="col-8">@Model.ClientName</div>
+                </div>
+
+                <div class="row mb-3">
+                    <div class="col-4 fw-bold">Project:</div>
+                    <div class="col-8">@Model.ProjectName</div>
+                </div>
+
+                <div class="row mb-3">
+                    <div class="col-4 fw-bold">Project Value:</div>
+                    <div class="col-8">₹@Model.ProjectValue</div>
+                </div>
+
+                <div class="row mb-4">
+                    <div class="col-4 fw-bold">Assigned Employee:</div>
+                    <div class="col-8">
+                        @(Model.Employee != null ? Model.Employee.Name : "Not Assigned")
+                    </div>
+                </div>
+
+                <div class="text-center">
+                    <a asp-action="Index" class="btn btn-secondary">Back</a>
+                </div>
+
+            </div>
+        </div>
+    </div>
+</div>
