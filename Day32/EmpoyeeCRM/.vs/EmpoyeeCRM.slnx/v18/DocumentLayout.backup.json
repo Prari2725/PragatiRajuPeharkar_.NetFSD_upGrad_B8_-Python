@@ -3,28 +3,44 @@
   "WorkspaceRootPath": "D:\\uGE_Dotnet FSD with Python\\Daywise content\\Day32\\EmpoyeeCRM\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0DE9345B-D5C3-3852-70AB-3508B37AB73B}|EmpoyeeCRM\\EmployeeCRM.csproj|d:\\uge_dotnet fsd with python\\daywise content\\day32\\empoyeecrm\\empoyeecrm\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0DE9345B-D5C3-3852-70AB-3508B37AB73B}|EmpoyeeCRM\\EmployeeCRM.csproj|solutionrelative:empoyeecrm\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0DE9345B-D5C3-3852-70AB-3508B37AB73B}|EmpoyeeCRM\\EmployeeCRM.csproj|d:\\uge_dotnet fsd with python\\daywise content\\day32\\empoyeecrm\\empoyeecrm\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0DE9345B-D5C3-3852-70AB-3508B37AB73B}|EmpoyeeCRM\\EmployeeCRM.csproj|solutionrelative:empoyeecrm\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0DE9345B-D5C3-3852-70AB-3508B37AB73B}|EmpoyeeCRM\\EmployeeCRM.csproj|d:\\uge_dotnet fsd with python\\daywise content\\day32\\empoyeecrm\\empoyeecrm\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{0DE9345B-D5C3-3852-70AB-3508B37AB73B}|EmpoyeeCRM\\EmployeeCRM.csproj|solutionrelative:empoyeecrm\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{0DE9345B-D5C3-3852-70AB-3508B37AB73B}|EmpoyeeCRM\\EmployeeCRM.csproj|d:\\uge_dotnet fsd with python\\daywise content\\day32\\empoyeecrm\\empoyeecrm\\views\\client\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0DE9345B-D5C3-3852-70AB-3508B37AB73B}|EmpoyeeCRM\\EmployeeCRM.csproj|solutionrelative:empoyeecrm\\views\\client\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0DE9345B-D5C3-3852-70AB-3508B37AB73B}|EmpoyeeCRM\\EmployeeCRM.csproj|d:\\uge_dotnet fsd with python\\daywise content\\day32\\empoyeecrm\\empoyeecrm\\views\\employee\\projectsummary.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0DE9345B-D5C3-3852-70AB-3508B37AB73B}|EmpoyeeCRM\\EmployeeCRM.csproj|solutionrelative:empoyeecrm\\views\\employee\\projectsummary.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{0DE9345B-D5C3-3852-70AB-3508B37AB73B}|EmpoyeeCRM\\EmployeeCRM.csproj|d:\\uge_dotnet fsd with python\\daywise content\\day32\\empoyeecrm\\empoyeecrm\\controllers\\clientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DE9345B-D5C3-3852-70AB-3508B37AB73B}|EmpoyeeCRM\\EmployeeCRM.csproj|solutionrelative:empoyeecrm\\controllers\\clientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DE9345B-D5C3-3852-70AB-3508B37AB73B}|EmpoyeeCRM\\EmployeeCRM.csproj|d:\\uge_dotnet fsd with python\\daywise content\\day32\\empoyeecrm\\empoyeecrm\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DE9345B-D5C3-3852-70AB-3508B37AB73B}|EmpoyeeCRM\\EmployeeCRM.csproj|solutionrelative:empoyeecrm\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0DE9345B-D5C3-3852-70AB-3508B37AB73B}|EmpoyeeCRM\\EmployeeCRM.csproj|d:\\uge_dotnet fsd with python\\daywise content\\day32\\empoyeecrm\\empoyeecrm\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0DE9345B-D5C3-3852-70AB-3508B37AB73B}|EmpoyeeCRM\\EmployeeCRM.csproj|solutionrelative:empoyeecrm\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0DE9345B-D5C3-3852-70AB-3508B37AB73B}|EmpoyeeCRM\\EmployeeCRM.csproj|d:\\uge_dotnet fsd with python\\daywise content\\day32\\empoyeecrm\\empoyeecrm\\controllers\\clientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0DE9345B-D5C3-3852-70AB-3508B37AB73B}|EmpoyeeCRM\\EmployeeCRM.csproj|solutionrelative:empoyeecrm\\controllers\\clientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0DE9345B-D5C3-3852-70AB-3508B37AB73B}|EmpoyeeCRM\\EmployeeCRM.csproj|d:\\uge_dotnet fsd with python\\daywise content\\day32\\empoyeecrm\\empoyeecrm\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DE9345B-D5C3-3852-70AB-3508B37AB73B}|EmpoyeeCRM\\EmployeeCRM.csproj|solutionrelative:empoyeecrm\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DE9345B-D5C3-3852-70AB-3508B37AB73B}|EmpoyeeCRM\\EmployeeCRM.csproj|d:\\uge_dotnet fsd with python\\daywise content\\day32\\empoyeecrm\\empoyeecrm\\views\\employee\\topemployees.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0DE9345B-D5C3-3852-70AB-3508B37AB73B}|EmpoyeeCRM\\EmployeeCRM.csproj|solutionrelative:empoyeecrm\\views\\employee\\topemployees.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DE9345B-D5C3-3852-70AB-3508B37AB73B}|EmpoyeeCRM\\EmployeeCRM.csproj|d:\\uge_dotnet fsd with python\\daywise content\\day32\\empoyeecrm\\empoyeecrm\\views\\employee\\projectsummary.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0DE9345B-D5C3-3852-70AB-3508B37AB73B}|EmpoyeeCRM\\EmployeeCRM.csproj|solutionrelative:empoyeecrm\\views\\employee\\projectsummary.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DE9345B-D5C3-3852-70AB-3508B37AB73B}|EmpoyeeCRM\\EmployeeCRM.csproj|d:\\uge_dotnet fsd with python\\daywise content\\day32\\empoyeecrm\\empoyeecrm\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0DE9345B-D5C3-3852-70AB-3508B37AB73B}|EmpoyeeCRM\\EmployeeCRM.csproj|solutionrelative:empoyeecrm\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DE9345B-D5C3-3852-70AB-3508B37AB73B}|EmpoyeeCRM\\EmployeeCRM.csproj|d:\\uge_dotnet fsd with python\\daywise content\\day32\\empoyeecrm\\empoyeecrm\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0DE9345B-D5C3-3852-70AB-3508B37AB73B}|EmpoyeeCRM\\EmployeeCRM.csproj|solutionrelative:empoyeecrm\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0DE9345B-D5C3-3852-70AB-3508B37AB73B}|EmpoyeeCRM\\EmployeeCRM.csproj|d:\\uge_dotnet fsd with python\\daywise content\\day32\\empoyeecrm\\empoyeecrm\\views\\client\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -33,10 +49,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{0DE9345B-D5C3-3852-70AB-3508B37AB73B}|EmpoyeeCRM\\EmployeeCRM.csproj|d:\\uge_dotnet fsd with python\\daywise content\\day32\\empoyeecrm\\empoyeecrm\\views\\employee\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{0DE9345B-D5C3-3852-70AB-3508B37AB73B}|EmpoyeeCRM\\EmployeeCRM.csproj|solutionrelative:empoyeecrm\\views\\employee\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0DE9345B-D5C3-3852-70AB-3508B37AB73B}|EmpoyeeCRM\\EmployeeCRM.csproj|d:\\uge_dotnet fsd with python\\daywise content\\day32\\empoyeecrm\\empoyeecrm\\views\\employee\\topemployees.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0DE9345B-D5C3-3852-70AB-3508B37AB73B}|EmpoyeeCRM\\EmployeeCRM.csproj|solutionrelative:empoyeecrm\\views\\employee\\topemployees.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,36 +58,89 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\uGE_Dotnet FSD with Python\\Daywise content\\Day32\\EmpoyeeCRM\\EmpoyeeCRM\\Views\\Client\\Create.cshtml",
+              "RelativeDocumentMoniker": "EmpoyeeCRM\\Views\\Client\\Create.cshtml",
+              "ToolTip": "D:\\uGE_Dotnet FSD with Python\\Daywise content\\Day32\\EmpoyeeCRM\\EmpoyeeCRM\\Views\\Client\\Create.cshtml",
+              "RelativeToolTip": "EmpoyeeCRM\\Views\\Client\\Create.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACgAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-01T10:21:45.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "D:\\uGE_Dotnet FSD with Python\\Daywise content\\Day32\\EmpoyeeCRM\\EmpoyeeCRM\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "EmpoyeeCRM\\Controllers\\EmployeeController.cs",
+              "ToolTip": "D:\\uGE_Dotnet FSD with Python\\Daywise content\\Day32\\EmpoyeeCRM\\EmpoyeeCRM\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "EmpoyeeCRM\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T09:09:53.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClientController.cs",
+              "DocumentMoniker": "D:\\uGE_Dotnet FSD with Python\\Daywise content\\Day32\\EmpoyeeCRM\\EmpoyeeCRM\\Controllers\\ClientController.cs",
+              "RelativeDocumentMoniker": "EmpoyeeCRM\\Controllers\\ClientController.cs",
+              "ToolTip": "D:\\uGE_Dotnet FSD with Python\\Daywise content\\Day32\\EmpoyeeCRM\\EmpoyeeCRM\\Controllers\\ClientController.cs",
+              "RelativeToolTip": "EmpoyeeCRM\\Controllers\\ClientController.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAwCMAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T09:09:33.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Client.cs",
+              "DocumentMoniker": "D:\\uGE_Dotnet FSD with Python\\Daywise content\\Day32\\EmpoyeeCRM\\EmpoyeeCRM\\Models\\Client.cs",
+              "RelativeDocumentMoniker": "EmpoyeeCRM\\Models\\Client.cs",
+              "ToolTip": "D:\\uGE_Dotnet FSD with Python\\Daywise content\\Day32\\EmpoyeeCRM\\EmpoyeeCRM\\Models\\Client.cs",
+              "RelativeToolTip": "EmpoyeeCRM\\Models\\Client.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABEAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T07:06:15.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\uGE_Dotnet FSD with Python\\Daywise content\\Day32\\EmpoyeeCRM\\EmpoyeeCRM\\Models\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "EmpoyeeCRM\\Models\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\uGE_Dotnet FSD with Python\\Daywise content\\Day32\\EmpoyeeCRM\\EmpoyeeCRM\\Models\\ApplicationDbContext.cs",
+              "RelativeToolTip": "EmpoyeeCRM\\Models\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAsAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T07:09:48.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\uGE_Dotnet FSD with Python\\Daywise content\\Day32\\EmpoyeeCRM\\EmpoyeeCRM\\Views\\Employee\\Index.cshtml",
               "RelativeDocumentMoniker": "EmpoyeeCRM\\Views\\Employee\\Index.cshtml",
               "ToolTip": "D:\\uGE_Dotnet FSD with Python\\Daywise content\\Day32\\EmpoyeeCRM\\EmpoyeeCRM\\Views\\Employee\\Index.cshtml",
               "RelativeToolTip": "EmpoyeeCRM\\Views\\Employee\\Index.cshtml",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAgwAQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAgwBAAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-03-31T10:03:10.461Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\uGE_Dotnet FSD with Python\\Daywise content\\Day32\\EmpoyeeCRM\\EmpoyeeCRM\\appsettings.json",
-              "RelativeDocumentMoniker": "EmpoyeeCRM\\appsettings.json",
-              "ToolTip": "D:\\uGE_Dotnet FSD with Python\\Daywise content\\Day32\\EmpoyeeCRM\\EmpoyeeCRM\\appsettings.json",
-              "RelativeToolTip": "EmpoyeeCRM\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-03-31T09:46:15.229Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "ProjectSummary.cshtml",
               "DocumentMoniker": "D:\\uGE_Dotnet FSD with Python\\Daywise content\\Day32\\EmpoyeeCRM\\EmpoyeeCRM\\Views\\Employee\\ProjectSummary.cshtml",
               "RelativeDocumentMoniker": "EmpoyeeCRM\\Views\\Employee\\ProjectSummary.cshtml",
@@ -83,24 +148,12 @@
               "RelativeToolTip": "EmpoyeeCRM\\Views\\Employee\\ProjectSummary.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-31T09:16:23.897Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "EmployeeController.cs",
-              "DocumentMoniker": "D:\\uGE_Dotnet FSD with Python\\Daywise content\\Day32\\EmpoyeeCRM\\EmpoyeeCRM\\Controllers\\EmployeeController.cs",
-              "RelativeDocumentMoniker": "EmpoyeeCRM\\Controllers\\EmployeeController.cs",
-              "ToolTip": "D:\\uGE_Dotnet FSD with Python\\Daywise content\\Day32\\EmpoyeeCRM\\EmpoyeeCRM\\Controllers\\EmployeeController.cs",
-              "RelativeToolTip": "EmpoyeeCRM\\Controllers\\EmployeeController.cs",
-              "ViewState": "AgIAAGMAAAAAAAAAAAAAAGMAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-31T09:09:53.123Z",
+              "WhenOpened": "2026-03-31T09:16:23.897Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "Search.cshtml",
               "DocumentMoniker": "D:\\uGE_Dotnet FSD with Python\\Daywise content\\Day32\\EmpoyeeCRM\\EmpoyeeCRM\\Views\\Employee\\Search.cshtml",
               "RelativeDocumentMoniker": "EmpoyeeCRM\\Views\\Employee\\Search.cshtml",
@@ -118,37 +171,39 @@
               "RelativeDocumentMoniker": "EmpoyeeCRM\\Models\\Employee.cs",
               "ToolTip": "D:\\uGE_Dotnet FSD with Python\\Daywise content\\Day32\\EmpoyeeCRM\\EmpoyeeCRM\\Models\\Employee.cs",
               "RelativeToolTip": "EmpoyeeCRM\\Models\\Employee.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA/wA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-31T09:22:46.767Z"
+              "WhenOpened": "2026-03-31T09:22:46.767Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\uGE_Dotnet FSD with Python\\Daywise content\\Day32\\EmpoyeeCRM\\EmpoyeeCRM\\appsettings.json",
+              "RelativeDocumentMoniker": "EmpoyeeCRM\\appsettings.json",
+              "ToolTip": "D:\\uGE_Dotnet FSD with Python\\Daywise content\\Day32\\EmpoyeeCRM\\EmpoyeeCRM\\appsettings.json",
+              "RelativeToolTip": "EmpoyeeCRM\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-31T09:46:15.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "TopEmployees.cshtml",
               "DocumentMoniker": "D:\\uGE_Dotnet FSD with Python\\Daywise content\\Day32\\EmpoyeeCRM\\EmpoyeeCRM\\Views\\Employee\\TopEmployees.cshtml",
               "RelativeDocumentMoniker": "EmpoyeeCRM\\Views\\Employee\\TopEmployees.cshtml",
               "ToolTip": "D:\\uGE_Dotnet FSD with Python\\Daywise content\\Day32\\EmpoyeeCRM\\EmpoyeeCRM\\Views\\Employee\\TopEmployees.cshtml",
               "RelativeToolTip": "EmpoyeeCRM\\Views\\Employee\\TopEmployees.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAAMAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-31T09:12:07.463Z"
+              "WhenOpened": "2026-03-31T09:12:07.463Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ClientController.cs",
-              "DocumentMoniker": "D:\\uGE_Dotnet FSD with Python\\Daywise content\\Day32\\EmpoyeeCRM\\EmpoyeeCRM\\Controllers\\ClientController.cs",
-              "RelativeDocumentMoniker": "EmpoyeeCRM\\Controllers\\ClientController.cs",
-              "ToolTip": "D:\\uGE_Dotnet FSD with Python\\Daywise content\\Day32\\EmpoyeeCRM\\EmpoyeeCRM\\Controllers\\ClientController.cs",
-              "RelativeToolTip": "EmpoyeeCRM\\Controllers\\ClientController.cs",
-              "ViewState": "AgIAAGIAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-31T09:09:33.848Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "Details.cshtml",
               "DocumentMoniker": "D:\\uGE_Dotnet FSD with Python\\Daywise content\\Day32\\EmpoyeeCRM\\EmpoyeeCRM\\Views\\Client\\Details.cshtml",
               "RelativeDocumentMoniker": "EmpoyeeCRM\\Views\\Client\\Details.cshtml",

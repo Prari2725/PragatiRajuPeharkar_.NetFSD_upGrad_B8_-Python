@@ -1,0 +1,245 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\uGE_Dotnet FSD with Python\\Daywise content\\Day37\\ECommerceMicroservices\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\uGE_Dotnet FSD with Python\\Daywise content\\Day37\\ECommerceMicroservices\\OrderService\\Migrations\\20260407104800_InitialCreattere1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:OrderService\\Migrations\\20260407104800_InitialCreattere1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\uGE_Dotnet FSD with Python\\Daywise content\\Day37\\ECommerceMicroservices\\ProductService\\Migrations\\20260407104737_a44.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProductService\\Migrations\\20260407104737_a44.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48EDF805-8243-473B-9917-36E0E16C0BAE}|OrderService\\OrderService.csproj|d:\\uge_dotnet fsd with python\\daywise content\\day37\\ecommercemicroservices\\orderservice\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48EDF805-8243-473B-9917-36E0E16C0BAE}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48EDF805-8243-473B-9917-36E0E16C0BAE}|OrderService\\OrderService.csproj|d:\\uge_dotnet fsd with python\\daywise content\\day37\\ecommercemicroservices\\orderservice\\models\\orderdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48EDF805-8243-473B-9917-36E0E16C0BAE}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\models\\orderdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9B9AD2A-80FC-4C27-81B7-3A29913777CC}|ProductService\\ProductService.csproj|d:\\uge_dotnet fsd with python\\daywise content\\day37\\ecommercemicroservices\\productservice\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9B9AD2A-80FC-4C27-81B7-3A29913777CC}|ProductService\\ProductService.csproj|solutionrelative:productservice\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48EDF805-8243-473B-9917-36E0E16C0BAE}|OrderService\\OrderService.csproj|d:\\uge_dotnet fsd with python\\daywise content\\day37\\ecommercemicroservices\\orderservice\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48EDF805-8243-473B-9917-36E0E16C0BAE}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\uGE_Dotnet FSD with Python\\Daywise content\\Day37\\ECommerceMicroservices\\OrderService\\Migrations\\20260407103414_InitialCreatte1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:OrderService\\Migrations\\20260407103414_InitialCreatte1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\uGE_Dotnet FSD with Python\\Daywise content\\Day37\\ECommerceMicroservices\\ProductService\\Migrations\\20260407103345_s1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProductService\\Migrations\\20260407103345_s1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48EDF805-8243-473B-9917-36E0E16C0BAE}|OrderService\\OrderService.csproj|d:\\uge_dotnet fsd with python\\daywise content\\day37\\ecommercemicroservices\\orderservice\\models\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48EDF805-8243-473B-9917-36E0E16C0BAE}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\models\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\uGE_Dotnet FSD with Python\\Daywise content\\Day37\\ECommerceMicroservices\\OrderService\\Migrations\\20260407102402_InitialCreate1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:OrderService\\Migrations\\20260407102402_InitialCreate1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48EDF805-8243-473B-9917-36E0E16C0BAE}|OrderService\\OrderService.csproj|d:\\uge_dotnet fsd with python\\daywise content\\day37\\ecommercemicroservices\\orderservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48EDF805-8243-473B-9917-36E0E16C0BAE}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\uGE_Dotnet FSD with Python\\Daywise content\\Day37\\ECommerceMicroservices\\OrderService\\Migrations\\20260407102038_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:OrderService\\Migrations\\20260407102038_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\uGE_Dotnet FSD with Python\\Daywise content\\Day37\\ECommerceMicroservices\\ProductService\\Migrations\\20260407101146_a3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProductService\\Migrations\\20260407101146_a3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20260407104800_InitialCreattere1.cs",
+              "DocumentMoniker": "D:\\uGE_Dotnet FSD with Python\\Daywise content\\Day37\\ECommerceMicroservices\\OrderService\\Migrations\\20260407104800_InitialCreattere1.cs",
+              "RelativeDocumentMoniker": "OrderService\\Migrations\\20260407104800_InitialCreattere1.cs",
+              "ToolTip": "D:\\uGE_Dotnet FSD with Python\\Daywise content\\Day37\\ECommerceMicroservices\\OrderService\\Migrations\\20260407104800_InitialCreattere1.cs",
+              "RelativeToolTip": "OrderService\\Migrations\\20260407104800_InitialCreattere1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T10:48:00.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20260407104737_a44.cs",
+              "DocumentMoniker": "D:\\uGE_Dotnet FSD with Python\\Daywise content\\Day37\\ECommerceMicroservices\\ProductService\\Migrations\\20260407104737_a44.cs",
+              "RelativeDocumentMoniker": "ProductService\\Migrations\\20260407104737_a44.cs",
+              "ToolTip": "D:\\uGE_Dotnet FSD with Python\\Daywise content\\Day37\\ECommerceMicroservices\\ProductService\\Migrations\\20260407104737_a44.cs",
+              "RelativeToolTip": "ProductService\\Migrations\\20260407104737_a44.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T10:47:38.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20260407103414_InitialCreatte1.cs",
+              "DocumentMoniker": "D:\\uGE_Dotnet FSD with Python\\Daywise content\\Day37\\ECommerceMicroservices\\OrderService\\Migrations\\20260407103414_InitialCreatte1.cs",
+              "RelativeDocumentMoniker": "OrderService\\Migrations\\20260407103414_InitialCreatte1.cs",
+              "ToolTip": "D:\\uGE_Dotnet FSD with Python\\Daywise content\\Day37\\ECommerceMicroservices\\OrderService\\Migrations\\20260407103414_InitialCreatte1.cs",
+              "RelativeToolTip": "OrderService\\Migrations\\20260407103414_InitialCreatte1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T10:34:14.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "D:\\uGE_Dotnet FSD with Python\\Daywise content\\Day37\\ECommerceMicroservices\\ProductService\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "ProductService\\Controllers\\ProductsController.cs",
+              "ToolTip": "D:\\uGE_Dotnet FSD with Python\\Daywise content\\Day37\\ECommerceMicroservices\\ProductService\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "ProductService\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAmwC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T10:32:59.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "D:\\uGE_Dotnet FSD with Python\\Daywise content\\Day37\\ECommerceMicroservices\\OrderService\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "OrderService\\Controllers\\OrdersController.cs",
+              "ToolTip": "D:\\uGE_Dotnet FSD with Python\\Daywise content\\Day37\\ECommerceMicroservices\\OrderService\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "OrderService\\Controllers\\OrdersController.cs",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAuwGsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T10:30:18.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductDTO.cs",
+              "DocumentMoniker": "D:\\uGE_Dotnet FSD with Python\\Daywise content\\Day37\\ECommerceMicroservices\\OrderService\\Models\\ProductDTO.cs",
+              "RelativeDocumentMoniker": "OrderService\\Models\\ProductDTO.cs",
+              "ToolTip": "D:\\uGE_Dotnet FSD with Python\\Daywise content\\Day37\\ECommerceMicroservices\\OrderService\\Models\\ProductDTO.cs",
+              "RelativeToolTip": "OrderService\\Models\\ProductDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T10:31:05.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\uGE_Dotnet FSD with Python\\Daywise content\\Day37\\ECommerceMicroservices\\OrderService\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "OrderService\\Models\\Order.cs",
+              "ToolTip": "D:\\uGE_Dotnet FSD with Python\\Daywise content\\Day37\\ECommerceMicroservices\\OrderService\\Models\\Order.cs",
+              "RelativeToolTip": "OrderService\\Models\\Order.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T10:30:42.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderDbContext.cs",
+              "DocumentMoniker": "D:\\uGE_Dotnet FSD with Python\\Daywise content\\Day37\\ECommerceMicroservices\\OrderService\\Models\\OrderDbContext.cs",
+              "RelativeDocumentMoniker": "OrderService\\Models\\OrderDbContext.cs",
+              "ToolTip": "D:\\uGE_Dotnet FSD with Python\\Daywise content\\Day37\\ECommerceMicroservices\\OrderService\\Models\\OrderDbContext.cs",
+              "RelativeToolTip": "OrderService\\Models\\OrderDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T10:18:09.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20260407103345_s1.cs",
+              "DocumentMoniker": "D:\\uGE_Dotnet FSD with Python\\Daywise content\\Day37\\ECommerceMicroservices\\ProductService\\Migrations\\20260407103345_s1.cs",
+              "RelativeDocumentMoniker": "ProductService\\Migrations\\20260407103345_s1.cs",
+              "ToolTip": "D:\\uGE_Dotnet FSD with Python\\Daywise content\\Day37\\ECommerceMicroservices\\ProductService\\Migrations\\20260407103345_s1.cs",
+              "RelativeToolTip": "ProductService\\Migrations\\20260407103345_s1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T10:33:45.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20260407102402_InitialCreate1.cs",
+              "DocumentMoniker": "D:\\uGE_Dotnet FSD with Python\\Daywise content\\Day37\\ECommerceMicroservices\\OrderService\\Migrations\\20260407102402_InitialCreate1.cs",
+              "RelativeDocumentMoniker": "OrderService\\Migrations\\20260407102402_InitialCreate1.cs",
+              "ToolTip": "D:\\uGE_Dotnet FSD with Python\\Daywise content\\Day37\\ECommerceMicroservices\\OrderService\\Migrations\\20260407102402_InitialCreate1.cs",
+              "RelativeToolTip": "OrderService\\Migrations\\20260407102402_InitialCreate1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T10:24:02.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\uGE_Dotnet FSD with Python\\Daywise content\\Day37\\ECommerceMicroservices\\OrderService\\Program.cs",
+              "RelativeDocumentMoniker": "OrderService\\Program.cs",
+              "ToolTip": "D:\\uGE_Dotnet FSD with Python\\Daywise content\\Day37\\ECommerceMicroservices\\OrderService\\Program.cs",
+              "RelativeToolTip": "OrderService\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAzwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T10:23:14.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20260407102038_InitialCreate.cs",
+              "DocumentMoniker": "D:\\uGE_Dotnet FSD with Python\\Daywise content\\Day37\\ECommerceMicroservices\\OrderService\\Migrations\\20260407102038_InitialCreate.cs",
+              "RelativeDocumentMoniker": "OrderService\\Migrations\\20260407102038_InitialCreate.cs",
+              "ToolTip": "D:\\uGE_Dotnet FSD with Python\\Daywise content\\Day37\\ECommerceMicroservices\\OrderService\\Migrations\\20260407102038_InitialCreate.cs",
+              "RelativeToolTip": "OrderService\\Migrations\\20260407102038_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T10:20:38.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20260407101146_a3.cs",
+              "DocumentMoniker": "D:\\uGE_Dotnet FSD with Python\\Daywise content\\Day37\\ECommerceMicroservices\\ProductService\\Migrations\\20260407101146_a3.cs",
+              "RelativeDocumentMoniker": "ProductService\\Migrations\\20260407101146_a3.cs",
+              "ToolTip": "D:\\uGE_Dotnet FSD with Python\\Daywise content\\Day37\\ECommerceMicroservices\\ProductService\\Migrations\\20260407101146_a3.cs",
+              "RelativeToolTip": "ProductService\\Migrations\\20260407101146_a3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T10:11:46.359Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

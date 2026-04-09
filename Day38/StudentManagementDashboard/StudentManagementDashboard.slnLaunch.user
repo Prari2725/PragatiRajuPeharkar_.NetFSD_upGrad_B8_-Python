@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "StudentService\\StudentService.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "DepartmentService\\DepartmentService.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "ScorecardService\\ScorecardService.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

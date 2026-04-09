@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\uGE_Dotnet FSD with Python\\Daywise content\\Day36\\jwt\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BE2A2B88-D13B-41F0-A588-6285309C2944}|jwt\\jwt.csproj|d:\\uge_dotnet fsd with python\\daywise content\\day36\\jwt\\jwt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE2A2B88-D13B-41F0-A588-6285309C2944}|jwt\\jwt.csproj|solutionrelative:jwt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE2A2B88-D13B-41F0-A588-6285309C2944}|jwt\\jwt.csproj|d:\\uge_dotnet fsd with python\\daywise content\\day36\\jwt\\jwt\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE2A2B88-D13B-41F0-A588-6285309C2944}|jwt\\jwt.csproj|solutionrelative:jwt\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE2A2B88-D13B-41F0-A588-6285309C2944}|jwt\\jwt.csproj|d:\\uge_dotnet fsd with python\\daywise content\\day36\\jwt\\jwt\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE2A2B88-D13B-41F0-A588-6285309C2944}|jwt\\jwt.csproj|solutionrelative:jwt\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE2A2B88-D13B-41F0-A588-6285309C2944}|jwt\\jwt.csproj|d:\\uge_dotnet fsd with python\\daywise content\\day36\\jwt\\jwt\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BE2A2B88-D13B-41F0-A588-6285309C2944}|jwt\\jwt.csproj|solutionrelative:jwt\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\uGE_Dotnet FSD with Python\\Daywise content\\Day36\\jwt\\jwt\\Program.cs",
+              "RelativeDocumentMoniker": "jwt\\Program.cs",
+              "ToolTip": "D:\\uGE_Dotnet FSD with Python\\Daywise content\\Day36\\jwt\\jwt\\Program.cs",
+              "RelativeToolTip": "jwt\\Program.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAowDYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T07:02:06.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "D:\\uGE_Dotnet FSD with Python\\Daywise content\\Day36\\jwt\\jwt\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "jwt\\Controllers\\EmployeeController.cs",
+              "ToolTip": "D:\\uGE_Dotnet FSD with Python\\Daywise content\\Day36\\jwt\\jwt\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "jwt\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAkwCIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T07:01:30.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\uGE_Dotnet FSD with Python\\Daywise content\\Day36\\jwt\\jwt\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "jwt\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\uGE_Dotnet FSD with Python\\Daywise content\\Day36\\jwt\\jwt\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "jwt\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAswD8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T07:01:20.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\uGE_Dotnet FSD with Python\\Daywise content\\Day36\\jwt\\jwt\\appsettings.json",
+              "RelativeDocumentMoniker": "jwt\\appsettings.json",
+              "ToolTip": "D:\\uGE_Dotnet FSD with Python\\Daywise content\\Day36\\jwt\\jwt\\appsettings.json",
+              "RelativeToolTip": "jwt\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-06T06:58:46.52Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

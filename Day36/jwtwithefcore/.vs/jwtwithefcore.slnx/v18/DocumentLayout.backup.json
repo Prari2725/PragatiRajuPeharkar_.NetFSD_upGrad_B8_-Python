@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\uGE_Dotnet FSD with Python\\Daywise content\\Day36\\jwtwithefcore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{24EDEECA-BB70-0A6A-4410-E0F7C65DA4B5}|jwtwithefcore\\jwtwithefcore.csproj|d:\\uge_dotnet fsd with python\\daywise content\\day36\\jwtwithefcore\\jwtwithefcore\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24EDEECA-BB70-0A6A-4410-E0F7C65DA4B5}|jwtwithefcore\\jwtwithefcore.csproj|solutionrelative:jwtwithefcore\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16531595-44A6-4735-A1DA-AB275C62520B}|jeteffrontend\\jeteffrontend.csproj|d:\\uge_dotnet fsd with python\\daywise content\\day36\\jwtwithefcore\\jeteffrontend\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16531595-44A6-4735-A1DA-AB275C62520B}|jeteffrontend\\jeteffrontend.csproj|solutionrelative:jeteffrontend\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\uGE_Dotnet FSD with Python\\Daywise content\\Day36\\jwtwithefcore\\jwtwithefcore\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "jwtwithefcore\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\uGE_Dotnet FSD with Python\\Daywise content\\Day36\\jwtwithefcore\\jwtwithefcore\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "jwtwithefcore\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAIwEcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T06:35:16.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\uGE_Dotnet FSD with Python\\Daywise content\\Day36\\jwtwithefcore\\jeteffrontend\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "jeteffrontend\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\uGE_Dotnet FSD with Python\\Daywise content\\Day36\\jwtwithefcore\\jeteffrontend\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "jeteffrontend\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAIwDIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T06:31:02.673Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

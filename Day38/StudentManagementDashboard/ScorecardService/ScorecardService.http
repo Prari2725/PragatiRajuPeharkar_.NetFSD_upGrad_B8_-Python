@@ -1,0 +1,6 @@
+@ScorecardService_HostAddress = http://localhost:5171
+
+GET {{ScorecardService_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

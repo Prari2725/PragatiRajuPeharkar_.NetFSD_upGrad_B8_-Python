@@ -1,0 +1,347 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\uGE_Dotnet FSD with Python\\Daywise content\\Day34\\WebApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C42A06A9-6751-1083-0212-E7AF75454D33}|WebApp1\\WebApp1.csproj|d:\\uge_dotnet fsd with python\\daywise content\\day34\\webapp1\\webapp1\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C42A06A9-6751-1083-0212-E7AF75454D33}|WebApp1\\WebApp1.csproj|solutionrelative:webapp1\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C42A06A9-6751-1083-0212-E7AF75454D33}|WebApp1\\WebApp1.csproj|d:\\uge_dotnet fsd with python\\daywise content\\day34\\webapp1\\webapp1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C42A06A9-6751-1083-0212-E7AF75454D33}|WebApp1\\WebApp1.csproj|solutionrelative:webapp1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C42A06A9-6751-1083-0212-E7AF75454D33}|WebApp1\\WebApp1.csproj|d:\\uge_dotnet fsd with python\\daywise content\\day34\\webapp1\\webapp1\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C42A06A9-6751-1083-0212-E7AF75454D33}|WebApp1\\WebApp1.csproj|solutionrelative:webapp1\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C42A06A9-6751-1083-0212-E7AF75454D33}|WebApp1\\WebApp1.csproj|d:\\uge_dotnet fsd with python\\daywise content\\day34\\webapp1\\webapp1\\controllers\\employeesapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C42A06A9-6751-1083-0212-E7AF75454D33}|WebApp1\\WebApp1.csproj|solutionrelative:webapp1\\controllers\\employeesapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C42A06A9-6751-1083-0212-E7AF75454D33}|WebApp1\\WebApp1.csproj|d:\\uge_dotnet fsd with python\\daywise content\\day34\\webapp1\\webapp1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C42A06A9-6751-1083-0212-E7AF75454D33}|WebApp1\\WebApp1.csproj|solutionrelative:webapp1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C42A06A9-6751-1083-0212-E7AF75454D33}|WebApp1\\WebApp1.csproj|d:\\uge_dotnet fsd with python\\daywise content\\day34\\webapp1\\webapp1\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C42A06A9-6751-1083-0212-E7AF75454D33}|WebApp1\\WebApp1.csproj|solutionrelative:webapp1\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C42A06A9-6751-1083-0212-E7AF75454D33}|WebApp1\\WebApp1.csproj|d:\\uge_dotnet fsd with python\\daywise content\\day34\\webapp1\\webapp1\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C42A06A9-6751-1083-0212-E7AF75454D33}|WebApp1\\WebApp1.csproj|solutionrelative:webapp1\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C42A06A9-6751-1083-0212-E7AF75454D33}|WebApp1\\WebApp1.csproj|d:\\uge_dotnet fsd with python\\daywise content\\day34\\webapp1\\webapp1\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C42A06A9-6751-1083-0212-E7AF75454D33}|WebApp1\\WebApp1.csproj|solutionrelative:webapp1\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C42A06A9-6751-1083-0212-E7AF75454D33}|WebApp1\\WebApp1.csproj|d:\\uge_dotnet fsd with python\\daywise content\\day34\\webapp1\\webapp1\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C42A06A9-6751-1083-0212-E7AF75454D33}|WebApp1\\WebApp1.csproj|solutionrelative:webapp1\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C42A06A9-6751-1083-0212-E7AF75454D33}|WebApp1\\WebApp1.csproj|d:\\uge_dotnet fsd with python\\daywise content\\day34\\webapp1\\webapp1\\views\\employee\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C42A06A9-6751-1083-0212-E7AF75454D33}|WebApp1\\WebApp1.csproj|solutionrelative:webapp1\\views\\employee\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C42A06A9-6751-1083-0212-E7AF75454D33}|WebApp1\\WebApp1.csproj|d:\\uge_dotnet fsd with python\\daywise content\\day34\\webapp1\\webapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C42A06A9-6751-1083-0212-E7AF75454D33}|WebApp1\\WebApp1.csproj|solutionrelative:webapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C42A06A9-6751-1083-0212-E7AF75454D33}|WebApp1\\WebApp1.csproj|d:\\uge_dotnet fsd with python\\daywise content\\day34\\webapp1\\webapp1\\views\\employee\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C42A06A9-6751-1083-0212-E7AF75454D33}|WebApp1\\WebApp1.csproj|solutionrelative:webapp1\\views\\employee\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C42A06A9-6751-1083-0212-E7AF75454D33}|WebApp1\\WebApp1.csproj|d:\\uge_dotnet fsd with python\\daywise content\\day34\\webapp1\\webapp1\\views\\employee\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C42A06A9-6751-1083-0212-E7AF75454D33}|WebApp1\\WebApp1.csproj|solutionrelative:webapp1\\views\\employee\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C42A06A9-6751-1083-0212-E7AF75454D33}|WebApp1\\WebApp1.csproj|d:\\uge_dotnet fsd with python\\daywise content\\day34\\webapp1\\webapp1\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C42A06A9-6751-1083-0212-E7AF75454D33}|WebApp1\\WebApp1.csproj|solutionrelative:webapp1\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C42A06A9-6751-1083-0212-E7AF75454D33}|WebApp1\\WebApp1.csproj|d:\\uge_dotnet fsd with python\\daywise content\\day34\\webapp1\\webapp1\\views\\_viewstart.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C42A06A9-6751-1083-0212-E7AF75454D33}|WebApp1\\WebApp1.csproj|solutionrelative:webapp1\\views\\_viewstart.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C42A06A9-6751-1083-0212-E7AF75454D33}|WebApp1\\WebApp1.csproj|d:\\uge_dotnet fsd with python\\daywise content\\day34\\webapp1\\webapp1\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C42A06A9-6751-1083-0212-E7AF75454D33}|WebApp1\\WebApp1.csproj|solutionrelative:webapp1\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C42A06A9-6751-1083-0212-E7AF75454D33}|WebApp1\\WebApp1.csproj|d:\\uge_dotnet fsd with python\\daywise content\\day34\\webapp1\\webapp1\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C42A06A9-6751-1083-0212-E7AF75454D33}|WebApp1\\WebApp1.csproj|solutionrelative:webapp1\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C42A06A9-6751-1083-0212-E7AF75454D33}|WebApp1\\WebApp1.csproj|d:\\uge_dotnet fsd with python\\daywise content\\day34\\webapp1\\webapp1\\migrations\\20260402073547_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C42A06A9-6751-1083-0212-E7AF75454D33}|WebApp1\\WebApp1.csproj|solutionrelative:webapp1\\migrations\\20260402073547_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C42A06A9-6751-1083-0212-E7AF75454D33}|WebApp1\\WebApp1.csproj|d:\\uge_dotnet fsd with python\\daywise content\\day34\\webapp1\\webapp1\\migrations\\20260403051939_a2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C42A06A9-6751-1083-0212-E7AF75454D33}|WebApp1\\WebApp1.csproj|solutionrelative:webapp1\\migrations\\20260403051939_a2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C42A06A9-6751-1083-0212-E7AF75454D33}|WebApp1\\WebApp1.csproj|d:\\uge_dotnet fsd with python\\daywise content\\day34\\webapp1\\webapp1\\migrations\\20260403051828_a1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C42A06A9-6751-1083-0212-E7AF75454D33}|WebApp1\\WebApp1.csproj|solutionrelative:webapp1\\migrations\\20260403051828_a1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "D:\\uGE_Dotnet FSD with Python\\Daywise content\\Day34\\WebApp1\\WebApp1\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "WebApp1\\Controllers\\EmployeeController.cs",
+              "ToolTip": "D:\\uGE_Dotnet FSD with Python\\Daywise content\\Day34\\WebApp1\\WebApp1\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "WebApp1\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T07:36:45.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\uGE_Dotnet FSD with Python\\Daywise content\\Day34\\WebApp1\\WebApp1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebApp1\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\uGE_Dotnet FSD with Python\\Daywise content\\Day34\\WebApp1\\WebApp1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebApp1\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-03T05:39:33.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\uGE_Dotnet FSD with Python\\Daywise content\\Day34\\WebApp1\\WebApp1\\Views\\Employee\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApp1\\Views\\Employee\\Index.cshtml",
+              "ToolTip": "D:\\uGE_Dotnet FSD with Python\\Daywise content\\Day34\\WebApp1\\WebApp1\\Views\\Employee\\Index.cshtml",
+              "RelativeToolTip": "WebApp1\\Views\\Employee\\Index.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAkwDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-03T05:12:48.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\uGE_Dotnet FSD with Python\\Daywise content\\Day34\\WebApp1\\WebApp1\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApp1\\appsettings.json",
+              "ToolTip": "D:\\uGE_Dotnet FSD with Python\\Daywise content\\Day34\\WebApp1\\WebApp1\\appsettings.json",
+              "RelativeToolTip": "WebApp1\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-03T06:36:55.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeesApiController.cs",
+              "DocumentMoniker": "D:\\uGE_Dotnet FSD with Python\\Daywise content\\Day34\\WebApp1\\WebApp1\\Controllers\\EmployeesApiController.cs",
+              "RelativeDocumentMoniker": "WebApp1\\Controllers\\EmployeesApiController.cs",
+              "ToolTip": "D:\\uGE_Dotnet FSD with Python\\Daywise content\\Day34\\WebApp1\\WebApp1\\Controllers\\EmployeesApiController.cs",
+              "RelativeToolTip": "WebApp1\\Controllers\\EmployeesApiController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwAoAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T05:17:02.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\uGE_Dotnet FSD with Python\\Daywise content\\Day34\\WebApp1\\WebApp1\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "WebApp1\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\uGE_Dotnet FSD with Python\\Daywise content\\Day34\\WebApp1\\WebApp1\\Properties\\launchSettings.json",
+              "RelativeToolTip": "WebApp1\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAowAoAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-03T06:37:03.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\uGE_Dotnet FSD with Python\\Daywise content\\Day34\\WebApp1\\WebApp1\\Views\\Employee\\Create.cshtml",
+              "RelativeDocumentMoniker": "WebApp1\\Views\\Employee\\Create.cshtml",
+              "ToolTip": "D:\\uGE_Dotnet FSD with Python\\Daywise content\\Day34\\WebApp1\\WebApp1\\Views\\Employee\\Create.cshtml",
+              "RelativeToolTip": "WebApp1\\Views\\Employee\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-03T05:13:33.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\uGE_Dotnet FSD with Python\\Daywise content\\Day34\\WebApp1\\WebApp1\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "WebApp1\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\uGE_Dotnet FSD with Python\\Daywise content\\Day34\\WebApp1\\WebApp1\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "WebApp1\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-03T05:34:25.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\uGE_Dotnet FSD with Python\\Daywise content\\Day34\\WebApp1\\WebApp1\\Views\\Employee\\Edit.cshtml",
+              "RelativeDocumentMoniker": "WebApp1\\Views\\Employee\\Edit.cshtml",
+              "ToolTip": "D:\\uGE_Dotnet FSD with Python\\Daywise content\\Day34\\WebApp1\\WebApp1\\Views\\Employee\\Edit.cshtml",
+              "RelativeToolTip": "WebApp1\\Views\\Employee\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-03T05:14:32.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\uGE_Dotnet FSD with Python\\Daywise content\\Day34\\WebApp1\\WebApp1\\Program.cs",
+              "RelativeDocumentMoniker": "WebApp1\\Program.cs",
+              "ToolTip": "D:\\uGE_Dotnet FSD with Python\\Daywise content\\Day34\\WebApp1\\WebApp1\\Program.cs",
+              "RelativeToolTip": "WebApp1\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAwwBkAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T05:24:12.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "D:\\uGE_Dotnet FSD with Python\\Daywise content\\Day34\\WebApp1\\WebApp1\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "WebApp1\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "D:\\uGE_Dotnet FSD with Python\\Daywise content\\Day34\\WebApp1\\WebApp1\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "WebApp1\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-03T05:42:12.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\uGE_Dotnet FSD with Python\\Daywise content\\Day34\\WebApp1\\WebApp1\\Views\\Employee\\Delete.cshtml",
+              "RelativeDocumentMoniker": "WebApp1\\Views\\Employee\\Delete.cshtml",
+              "ToolTip": "D:\\uGE_Dotnet FSD with Python\\Daywise content\\Day34\\WebApp1\\WebApp1\\Views\\Employee\\Delete.cshtml",
+              "RelativeToolTip": "WebApp1\\Views\\Employee\\Delete.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-03T05:15:26.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20260403051939_a2.cs",
+              "DocumentMoniker": "D:\\uGE_Dotnet FSD with Python\\Daywise content\\Day34\\WebApp1\\WebApp1\\Migrations\\20260403051939_a2.cs",
+              "RelativeDocumentMoniker": "WebApp1\\Migrations\\20260403051939_a2.cs",
+              "ToolTip": "D:\\uGE_Dotnet FSD with Python\\Daywise content\\Day34\\WebApp1\\WebApp1\\Migrations\\20260403051939_a2.cs",
+              "RelativeToolTip": "WebApp1\\Migrations\\20260403051939_a2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T05:19:39.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\uGE_Dotnet FSD with Python\\Daywise content\\Day34\\WebApp1\\WebApp1\\Views\\Employee\\Details.cshtml",
+              "RelativeDocumentMoniker": "WebApp1\\Views\\Employee\\Details.cshtml",
+              "ToolTip": "D:\\uGE_Dotnet FSD with Python\\Daywise content\\Day34\\WebApp1\\WebApp1\\Views\\Employee\\Details.cshtml",
+              "RelativeToolTip": "WebApp1\\Views\\Employee\\Details.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-03T05:28:04.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\uGE_Dotnet FSD with Python\\Daywise content\\Day34\\WebApp1\\WebApp1\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "WebApp1\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\uGE_Dotnet FSD with Python\\Daywise content\\Day34\\WebApp1\\WebApp1\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "WebApp1\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-03T05:35:06.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_ViewStart.cshtml.cs",
+              "DocumentMoniker": "D:\\uGE_Dotnet FSD with Python\\Daywise content\\Day34\\WebApp1\\WebApp1\\Views\\_ViewStart.cshtml.cs",
+              "RelativeDocumentMoniker": "WebApp1\\Views\\_ViewStart.cshtml.cs",
+              "ToolTip": "D:\\uGE_Dotnet FSD with Python\\Daywise content\\Day34\\WebApp1\\WebApp1\\Views\\_ViewStart.cshtml.cs",
+              "RelativeToolTip": "WebApp1\\Views\\_ViewStart.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T05:38:33.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\uGE_Dotnet FSD with Python\\Daywise content\\Day34\\WebApp1\\WebApp1\\Models\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "WebApp1\\Models\\AppDbContext.cs",
+              "ToolTip": "D:\\uGE_Dotnet FSD with Python\\Daywise content\\Day34\\WebApp1\\WebApp1\\Models\\AppDbContext.cs",
+              "RelativeToolTip": "WebApp1\\Models\\AppDbContext.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T07:29:39.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20260403051828_a1.cs",
+              "DocumentMoniker": "D:\\uGE_Dotnet FSD with Python\\Daywise content\\Day34\\WebApp1\\WebApp1\\Migrations\\20260403051828_a1.cs",
+              "RelativeDocumentMoniker": "WebApp1\\Migrations\\20260403051828_a1.cs",
+              "ToolTip": "D:\\uGE_Dotnet FSD with Python\\Daywise content\\Day34\\WebApp1\\WebApp1\\Migrations\\20260403051828_a1.cs",
+              "RelativeToolTip": "WebApp1\\Migrations\\20260403051828_a1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T05:18:28.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\uGE_Dotnet FSD with Python\\Daywise content\\Day34\\WebApp1\\WebApp1\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "WebApp1\\Models\\Employee.cs",
+              "ToolTip": "D:\\uGE_Dotnet FSD with Python\\Daywise content\\Day34\\WebApp1\\WebApp1\\Models\\Employee.cs",
+              "RelativeToolTip": "WebApp1\\Models\\Employee.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T07:29:13.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20260402073547_InitialCreate.cs",
+              "DocumentMoniker": "D:\\uGE_Dotnet FSD with Python\\Daywise content\\Day34\\WebApp1\\WebApp1\\Migrations\\20260402073547_InitialCreate.cs",
+              "RelativeDocumentMoniker": "WebApp1\\Migrations\\20260402073547_InitialCreate.cs",
+              "ToolTip": "D:\\uGE_Dotnet FSD with Python\\Daywise content\\Day34\\WebApp1\\WebApp1\\Migrations\\20260402073547_InitialCreate.cs",
+              "RelativeToolTip": "WebApp1\\Migrations\\20260402073547_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T07:35:47.584Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

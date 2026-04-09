@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\uGE_Dotnet FSD with Python\\Daywise content\\Day39\\Nnittestingwithcorewebapi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{98C7CA66-BEE1-4862-BC2A-38D21794C28F}|ProductApi.Tests\\ProductApi.Tests.csproj|d:\\uge_dotnet fsd with python\\daywise content\\day39\\nnittestingwithcorewebapi\\productapi.tests\\productcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98C7CA66-BEE1-4862-BC2A-38D21794C28F}|ProductApi.Tests\\ProductApi.Tests.csproj|solutionrelative:productapi.tests\\productcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98C7CA66-BEE1-4862-BC2A-38D21794C28F}|ProductApi.Tests\\ProductApi.Tests.csproj|d:\\uge_dotnet fsd with python\\daywise content\\day39\\nnittestingwithcorewebapi\\productapi.tests\\productapi.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{98C7CA66-BEE1-4862-BC2A-38D21794C28F}|ProductApi.Tests\\ProductApi.Tests.csproj|solutionrelative:productapi.tests\\productapi.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2E2E426-973E-48B7-ADF6-1E1F6C59AC4E}|ProductApi\\ProductApi.csproj|d:\\uge_dotnet fsd with python\\daywise content\\day39\\nnittestingwithcorewebapi\\productapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2E2E426-973E-48B7-ADF6-1E1F6C59AC4E}|ProductApi\\ProductApi.csproj|solutionrelative:productapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2E2E426-973E-48B7-ADF6-1E1F6C59AC4E}|ProductApi\\ProductApi.csproj|d:\\uge_dotnet fsd with python\\daywise content\\day39\\nnittestingwithcorewebapi\\productapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2E2E426-973E-48B7-ADF6-1E1F6C59AC4E}|ProductApi\\ProductApi.csproj|solutionrelative:productapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2E2E426-973E-48B7-ADF6-1E1F6C59AC4E}|ProductApi\\ProductApi.csproj|d:\\uge_dotnet fsd with python\\daywise content\\day39\\nnittestingwithcorewebapi\\productapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F2E2E426-973E-48B7-ADF6-1E1F6C59AC4E}|ProductApi\\ProductApi.csproj|solutionrelative:productapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2E2E426-973E-48B7-ADF6-1E1F6C59AC4E}|ProductApi\\ProductApi.csproj|d:\\uge_dotnet fsd with python\\daywise content\\day39\\nnittestingwithcorewebapi\\productapi\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2E2E426-973E-48B7-ADF6-1E1F6C59AC4E}|ProductApi\\ProductApi.csproj|solutionrelative:productapi\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2E2E426-973E-48B7-ADF6-1E1F6C59AC4E}|ProductApi\\ProductApi.csproj|d:\\uge_dotnet fsd with python\\daywise content\\day39\\nnittestingwithcorewebapi\\productapi\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2E2E426-973E-48B7-ADF6-1E1F6C59AC4E}|ProductApi\\ProductApi.csproj|solutionrelative:productapi\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2E2E426-973E-48B7-ADF6-1E1F6C59AC4E}|ProductApi\\ProductApi.csproj|d:\\uge_dotnet fsd with python\\daywise content\\day39\\nnittestingwithcorewebapi\\productapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2E2E426-973E-48B7-ADF6-1E1F6C59AC4E}|ProductApi\\ProductApi.csproj|solutionrelative:productapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2E2E426-973E-48B7-ADF6-1E1F6C59AC4E}|ProductApi\\ProductApi.csproj|d:\\uge_dotnet fsd with python\\daywise content\\day39\\nnittestingwithcorewebapi\\productapi\\productapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F2E2E426-973E-48B7-ADF6-1E1F6C59AC4E}|ProductApi\\ProductApi.csproj|solutionrelative:productapi\\productapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductControllerTests.cs",
+              "DocumentMoniker": "D:\\uGE_Dotnet FSD with Python\\Daywise content\\Day39\\Nnittestingwithcorewebapi\\ProductApi.Tests\\ProductControllerTests.cs",
+              "RelativeDocumentMoniker": "ProductApi.Tests\\ProductControllerTests.cs",
+              "ToolTip": "D:\\uGE_Dotnet FSD with Python\\Daywise content\\Day39\\Nnittestingwithcorewebapi\\ProductApi.Tests\\ProductControllerTests.cs",
+              "RelativeToolTip": "ProductApi.Tests\\ProductControllerTests.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAA5wDwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T06:55:23.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductApi.Tests",
+              "DocumentMoniker": "D:\\uGE_Dotnet FSD with Python\\Daywise content\\Day39\\Nnittestingwithcorewebapi\\ProductApi.Tests\\ProductApi.Tests.csproj",
+              "RelativeDocumentMoniker": "ProductApi.Tests\\ProductApi.Tests.csproj",
+              "ToolTip": "D:\\uGE_Dotnet FSD with Python\\Daywise content\\Day39\\Nnittestingwithcorewebapi\\ProductApi.Tests\\ProductApi.Tests.csproj",
+              "RelativeToolTip": "ProductApi.Tests\\ProductApi.Tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-09T06:54:36.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\uGE_Dotnet FSD with Python\\Daywise content\\Day39\\Nnittestingwithcorewebapi\\ProductApi\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "ProductApi\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\uGE_Dotnet FSD with Python\\Daywise content\\Day39\\Nnittestingwithcorewebapi\\ProductApi\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "ProductApi\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T06:52:41.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\uGE_Dotnet FSD with Python\\Daywise content\\Day39\\Nnittestingwithcorewebapi\\ProductApi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ProductApi\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\uGE_Dotnet FSD with Python\\Daywise content\\Day39\\Nnittestingwithcorewebapi\\ProductApi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ProductApi\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAwBEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-09T06:50:34.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\uGE_Dotnet FSD with Python\\Daywise content\\Day39\\Nnittestingwithcorewebapi\\ProductApi\\Program.cs",
+              "RelativeDocumentMoniker": "ProductApi\\Program.cs",
+              "ToolTip": "D:\\uGE_Dotnet FSD with Python\\Daywise content\\Day39\\Nnittestingwithcorewebapi\\ProductApi\\Program.cs",
+              "RelativeToolTip": "ProductApi\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAQwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T06:47:56.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "D:\\uGE_Dotnet FSD with Python\\Daywise content\\Day39\\Nnittestingwithcorewebapi\\ProductApi\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "ProductApi\\Services\\ProductService.cs",
+              "ToolTip": "D:\\uGE_Dotnet FSD with Python\\Daywise content\\Day39\\Nnittestingwithcorewebapi\\ProductApi\\Services\\ProductService.cs",
+              "RelativeToolTip": "ProductApi\\Services\\ProductService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAwA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T06:47:24.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "D:\\uGE_Dotnet FSD with Python\\Daywise content\\Day39\\Nnittestingwithcorewebapi\\ProductApi\\Services\\IProductService.cs",
+              "RelativeDocumentMoniker": "ProductApi\\Services\\IProductService.cs",
+              "ToolTip": "D:\\uGE_Dotnet FSD with Python\\Daywise content\\Day39\\Nnittestingwithcorewebapi\\ProductApi\\Services\\IProductService.cs",
+              "RelativeToolTip": "ProductApi\\Services\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T06:46:51.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\uGE_Dotnet FSD with Python\\Daywise content\\Day39\\Nnittestingwithcorewebapi\\ProductApi\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "ProductApi\\Models\\Product.cs",
+              "ToolTip": "D:\\uGE_Dotnet FSD with Python\\Daywise content\\Day39\\Nnittestingwithcorewebapi\\ProductApi\\Models\\Product.cs",
+              "RelativeToolTip": "ProductApi\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T06:46:19.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductApi",
+              "DocumentMoniker": "D:\\uGE_Dotnet FSD with Python\\Daywise content\\Day39\\Nnittestingwithcorewebapi\\ProductApi\\ProductApi.csproj",
+              "RelativeDocumentMoniker": "ProductApi\\ProductApi.csproj",
+              "ToolTip": "D:\\uGE_Dotnet FSD with Python\\Daywise content\\Day39\\Nnittestingwithcorewebapi\\ProductApi\\ProductApi.csproj",
+              "RelativeToolTip": "ProductApi\\ProductApi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-09T06:45:49.311Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

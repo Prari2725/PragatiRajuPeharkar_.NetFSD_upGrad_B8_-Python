@@ -1,0 +1,301 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\uGE_Dotnet FSD with Python\\Daywise content\\Day38\\StudentManagementDashboard\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{60FE953B-8C81-C853-536C-238E56464B56}|ScorecardService\\ScorecardService.csproj|d:\\uge_dotnet fsd with python\\daywise content\\day38\\studentmanagementdashboard\\scorecardservice\\models\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60FE953B-8C81-C853-536C-238E56464B56}|ScorecardService\\ScorecardService.csproj|solutionrelative:scorecardservice\\models\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60FE953B-8C81-C853-536C-238E56464B56}|ScorecardService\\ScorecardService.csproj|d:\\uge_dotnet fsd with python\\daywise content\\day38\\studentmanagementdashboard\\scorecardservice\\models\\scorecardwithstudentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60FE953B-8C81-C853-536C-238E56464B56}|ScorecardService\\ScorecardService.csproj|solutionrelative:scorecardservice\\models\\scorecardwithstudentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89E42090-449C-A049-B5F5-8F3577574545}|StudentService\\StudentService.csproj|d:\\uge_dotnet fsd with python\\daywise content\\day38\\studentmanagementdashboard\\studentservice\\models\\studentwithdepartmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89E42090-449C-A049-B5F5-8F3577574545}|StudentService\\StudentService.csproj|solutionrelative:studentservice\\models\\studentwithdepartmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89E42090-449C-A049-B5F5-8F3577574545}|StudentService\\StudentService.csproj|d:\\uge_dotnet fsd with python\\daywise content\\day38\\studentmanagementdashboard\\studentservice\\models\\departmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89E42090-449C-A049-B5F5-8F3577574545}|StudentService\\StudentService.csproj|solutionrelative:studentservice\\models\\departmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60FE953B-8C81-C853-536C-238E56464B56}|ScorecardService\\ScorecardService.csproj|d:\\uge_dotnet fsd with python\\daywise content\\day38\\studentmanagementdashboard\\scorecardservice\\migrations\\20260408061454_a4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60FE953B-8C81-C853-536C-238E56464B56}|ScorecardService\\ScorecardService.csproj|solutionrelative:scorecardservice\\migrations\\20260408061454_a4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89E42090-449C-A049-B5F5-8F3577574545}|StudentService\\StudentService.csproj|d:\\uge_dotnet fsd with python\\daywise content\\day38\\studentmanagementdashboard\\studentservice\\migrations\\20260408061410_a4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89E42090-449C-A049-B5F5-8F3577574545}|StudentService\\StudentService.csproj|solutionrelative:studentservice\\migrations\\20260408061410_a4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7E25468-1944-34D9-3958-40D48CE9B9FC}|DepartmentService\\DepartmentService.csproj|d:\\uge_dotnet fsd with python\\daywise content\\day38\\studentmanagementdashboard\\departmentservice\\migrations\\20260408061242_a4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7E25468-1944-34D9-3958-40D48CE9B9FC}|DepartmentService\\DepartmentService.csproj|solutionrelative:departmentservice\\migrations\\20260408061242_a4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60FE953B-8C81-C853-536C-238E56464B56}|ScorecardService\\ScorecardService.csproj|d:\\uge_dotnet fsd with python\\daywise content\\day38\\studentmanagementdashboard\\scorecardservice\\controllers\\scorecardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60FE953B-8C81-C853-536C-238E56464B56}|ScorecardService\\ScorecardService.csproj|solutionrelative:scorecardservice\\controllers\\scorecardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60FE953B-8C81-C853-536C-238E56464B56}|ScorecardService\\ScorecardService.csproj|d:\\uge_dotnet fsd with python\\daywise content\\day38\\studentmanagementdashboard\\scorecardservice\\migrations\\20260408055639_a3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60FE953B-8C81-C853-536C-238E56464B56}|ScorecardService\\ScorecardService.csproj|solutionrelative:scorecardservice\\migrations\\20260408055639_a3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60FE953B-8C81-C853-536C-238E56464B56}|ScorecardService\\ScorecardService.csproj|d:\\uge_dotnet fsd with python\\daywise content\\day38\\studentmanagementdashboard\\scorecardservice\\models\\scorecard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60FE953B-8C81-C853-536C-238E56464B56}|ScorecardService\\ScorecardService.csproj|solutionrelative:scorecardservice\\models\\scorecard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89E42090-449C-A049-B5F5-8F3577574545}|StudentService\\StudentService.csproj|d:\\uge_dotnet fsd with python\\daywise content\\day38\\studentmanagementdashboard\\studentservice\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89E42090-449C-A049-B5F5-8F3577574545}|StudentService\\StudentService.csproj|solutionrelative:studentservice\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89E42090-449C-A049-B5F5-8F3577574545}|StudentService\\StudentService.csproj|d:\\uge_dotnet fsd with python\\daywise content\\day38\\studentmanagementdashboard\\studentservice\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89E42090-449C-A049-B5F5-8F3577574545}|StudentService\\StudentService.csproj|solutionrelative:studentservice\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7E25468-1944-34D9-3958-40D48CE9B9FC}|DepartmentService\\DepartmentService.csproj|d:\\uge_dotnet fsd with python\\daywise content\\day38\\studentmanagementdashboard\\departmentservice\\migrations\\20260408055534_a3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7E25468-1944-34D9-3958-40D48CE9B9FC}|DepartmentService\\DepartmentService.csproj|solutionrelative:departmentservice\\migrations\\20260408055534_a3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89E42090-449C-A049-B5F5-8F3577574545}|StudentService\\StudentService.csproj|d:\\uge_dotnet fsd with python\\daywise content\\day38\\studentmanagementdashboard\\studentservice\\migrations\\20260408055607_a3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89E42090-449C-A049-B5F5-8F3577574545}|StudentService\\StudentService.csproj|solutionrelative:studentservice\\migrations\\20260408055607_a3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60FE953B-8C81-C853-536C-238E56464B56}|ScorecardService\\ScorecardService.csproj|d:\\uge_dotnet fsd with python\\daywise content\\day38\\studentmanagementdashboard\\scorecardservice\\migrations\\20260408054215_a2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60FE953B-8C81-C853-536C-238E56464B56}|ScorecardService\\ScorecardService.csproj|solutionrelative:scorecardservice\\migrations\\20260408054215_a2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89E42090-449C-A049-B5F5-8F3577574545}|StudentService\\StudentService.csproj|d:\\uge_dotnet fsd with python\\daywise content\\day38\\studentmanagementdashboard\\studentservice\\migrations\\20260408054118_a2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89E42090-449C-A049-B5F5-8F3577574545}|StudentService\\StudentService.csproj|solutionrelative:studentservice\\migrations\\20260408054118_a2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7E25468-1944-34D9-3958-40D48CE9B9FC}|DepartmentService\\DepartmentService.csproj|d:\\uge_dotnet fsd with python\\daywise content\\day38\\studentmanagementdashboard\\departmentservice\\migrations\\20260408054021_a1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7E25468-1944-34D9-3958-40D48CE9B9FC}|DepartmentService\\DepartmentService.csproj|solutionrelative:departmentservice\\migrations\\20260408054021_a1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20260408061454_a4.cs",
+              "DocumentMoniker": "D:\\uGE_Dotnet FSD with Python\\Daywise content\\Day38\\StudentManagementDashboard\\ScorecardService\\Migrations\\20260408061454_a4.cs",
+              "RelativeDocumentMoniker": "ScorecardService\\Migrations\\20260408061454_a4.cs",
+              "ToolTip": "D:\\uGE_Dotnet FSD with Python\\Daywise content\\Day38\\StudentManagementDashboard\\ScorecardService\\Migrations\\20260408061454_a4.cs",
+              "RelativeToolTip": "ScorecardService\\Migrations\\20260408061454_a4.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T06:14:54.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ScoreCardController.cs",
+              "DocumentMoniker": "D:\\uGE_Dotnet FSD with Python\\Daywise content\\Day38\\StudentManagementDashboard\\ScorecardService\\Controllers\\ScoreCardController.cs",
+              "RelativeDocumentMoniker": "ScorecardService\\Controllers\\ScoreCardController.cs",
+              "ToolTip": "D:\\uGE_Dotnet FSD with Python\\Daywise content\\Day38\\StudentManagementDashboard\\ScorecardService\\Controllers\\ScoreCardController.cs",
+              "RelativeToolTip": "ScorecardService\\Controllers\\ScoreCardController.cs",
+              "ViewState": "AgIAAH8AAAAAAAAAAAAAwIsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T06:08:07.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20260408055639_a3.cs",
+              "DocumentMoniker": "D:\\uGE_Dotnet FSD with Python\\Daywise content\\Day38\\StudentManagementDashboard\\ScorecardService\\Migrations\\20260408055639_a3.cs",
+              "RelativeDocumentMoniker": "ScorecardService\\Migrations\\20260408055639_a3.cs",
+              "ToolTip": "D:\\uGE_Dotnet FSD with Python\\Daywise content\\Day38\\StudentManagementDashboard\\ScorecardService\\Migrations\\20260408055639_a3.cs",
+              "RelativeToolTip": "ScorecardService\\Migrations\\20260408055639_a3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T05:56:39.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentDto.cs",
+              "DocumentMoniker": "D:\\uGE_Dotnet FSD with Python\\Daywise content\\Day38\\StudentManagementDashboard\\ScorecardService\\Models\\StudentDto.cs",
+              "RelativeDocumentMoniker": "ScorecardService\\Models\\StudentDto.cs",
+              "ToolTip": "D:\\uGE_Dotnet FSD with Python\\Daywise content\\Day38\\StudentManagementDashboard\\ScorecardService\\Models\\StudentDto.cs",
+              "RelativeToolTip": "ScorecardService\\Models\\StudentDto.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAA2wAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T05:52:51.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ScoreCardWithStudentDto.cs",
+              "DocumentMoniker": "D:\\uGE_Dotnet FSD with Python\\Daywise content\\Day38\\StudentManagementDashboard\\ScorecardService\\Models\\ScoreCardWithStudentDto.cs",
+              "RelativeDocumentMoniker": "ScorecardService\\Models\\ScoreCardWithStudentDto.cs",
+              "ToolTip": "D:\\uGE_Dotnet FSD with Python\\Daywise content\\Day38\\StudentManagementDashboard\\ScorecardService\\Models\\ScoreCardWithStudentDto.cs",
+              "RelativeToolTip": "ScorecardService\\Models\\ScoreCardWithStudentDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T05:52:32.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ScoreCard.cs",
+              "DocumentMoniker": "D:\\uGE_Dotnet FSD with Python\\Daywise content\\Day38\\StudentManagementDashboard\\ScorecardService\\Models\\ScoreCard.cs",
+              "RelativeDocumentMoniker": "ScorecardService\\Models\\ScoreCard.cs",
+              "ToolTip": "D:\\uGE_Dotnet FSD with Python\\Daywise content\\Day38\\StudentManagementDashboard\\ScorecardService\\Models\\ScoreCard.cs",
+              "RelativeToolTip": "ScorecardService\\Models\\ScoreCard.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAiwBsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T05:51:58.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DepartmentDto.cs",
+              "DocumentMoniker": "D:\\uGE_Dotnet FSD with Python\\Daywise content\\Day38\\StudentManagementDashboard\\StudentService\\Models\\DepartmentDto.cs",
+              "RelativeDocumentMoniker": "StudentService\\Models\\DepartmentDto.cs",
+              "ToolTip": "D:\\uGE_Dotnet FSD with Python\\Daywise content\\Day38\\StudentManagementDashboard\\StudentService\\Models\\DepartmentDto.cs",
+              "RelativeToolTip": "StudentService\\Models\\DepartmentDto.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAmwAMAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T05:49:32.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentWithDepartmentDto.cs",
+              "DocumentMoniker": "D:\\uGE_Dotnet FSD with Python\\Daywise content\\Day38\\StudentManagementDashboard\\StudentService\\Models\\StudentWithDepartmentDto.cs",
+              "RelativeDocumentMoniker": "StudentService\\Models\\StudentWithDepartmentDto.cs",
+              "ToolTip": "D:\\uGE_Dotnet FSD with Python\\Daywise content\\Day38\\StudentManagementDashboard\\StudentService\\Models\\StudentWithDepartmentDto.cs",
+              "RelativeToolTip": "StudentService\\Models\\StudentWithDepartmentDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T05:49:23.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20260408061242_a4.cs",
+              "DocumentMoniker": "D:\\uGE_Dotnet FSD with Python\\Daywise content\\Day38\\StudentManagementDashboard\\DepartmentService\\Migrations\\20260408061242_a4.cs",
+              "RelativeDocumentMoniker": "DepartmentService\\Migrations\\20260408061242_a4.cs",
+              "ToolTip": "D:\\uGE_Dotnet FSD with Python\\Daywise content\\Day38\\StudentManagementDashboard\\DepartmentService\\Migrations\\20260408061242_a4.cs",
+              "RelativeToolTip": "DepartmentService\\Migrations\\20260408061242_a4.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T06:12:42.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20260408061410_a4.cs",
+              "DocumentMoniker": "D:\\uGE_Dotnet FSD with Python\\Daywise content\\Day38\\StudentManagementDashboard\\StudentService\\Migrations\\20260408061410_a4.cs",
+              "RelativeDocumentMoniker": "StudentService\\Migrations\\20260408061410_a4.cs",
+              "ToolTip": "D:\\uGE_Dotnet FSD with Python\\Daywise content\\Day38\\StudentManagementDashboard\\StudentService\\Migrations\\20260408061410_a4.cs",
+              "RelativeToolTip": "StudentService\\Migrations\\20260408061410_a4.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T06:14:10.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "D:\\uGE_Dotnet FSD with Python\\Daywise content\\Day38\\StudentManagementDashboard\\StudentService\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "StudentService\\Controllers\\StudentController.cs",
+              "ToolTip": "D:\\uGE_Dotnet FSD with Python\\Daywise content\\Day38\\StudentManagementDashboard\\StudentService\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "StudentService\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAAwHIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T05:50:59.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\uGE_Dotnet FSD with Python\\Daywise content\\Day38\\StudentManagementDashboard\\StudentService\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "StudentService\\Models\\Student.cs",
+              "ToolTip": "D:\\uGE_Dotnet FSD with Python\\Daywise content\\Day38\\StudentManagementDashboard\\StudentService\\Models\\Student.cs",
+              "RelativeToolTip": "StudentService\\Models\\Student.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAiwBoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T05:50:03.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20260408055534_a3.cs",
+              "DocumentMoniker": "D:\\uGE_Dotnet FSD with Python\\Daywise content\\Day38\\StudentManagementDashboard\\DepartmentService\\Migrations\\20260408055534_a3.cs",
+              "RelativeDocumentMoniker": "DepartmentService\\Migrations\\20260408055534_a3.cs",
+              "ToolTip": "D:\\uGE_Dotnet FSD with Python\\Daywise content\\Day38\\StudentManagementDashboard\\DepartmentService\\Migrations\\20260408055534_a3.cs",
+              "RelativeToolTip": "DepartmentService\\Migrations\\20260408055534_a3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T05:55:34.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20260408055607_a3.cs",
+              "DocumentMoniker": "D:\\uGE_Dotnet FSD with Python\\Daywise content\\Day38\\StudentManagementDashboard\\StudentService\\Migrations\\20260408055607_a3.cs",
+              "RelativeDocumentMoniker": "StudentService\\Migrations\\20260408055607_a3.cs",
+              "ToolTip": "D:\\uGE_Dotnet FSD with Python\\Daywise content\\Day38\\StudentManagementDashboard\\StudentService\\Migrations\\20260408055607_a3.cs",
+              "RelativeToolTip": "StudentService\\Migrations\\20260408055607_a3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T05:56:07.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20260408054215_a2.cs",
+              "DocumentMoniker": "D:\\uGE_Dotnet FSD with Python\\Daywise content\\Day38\\StudentManagementDashboard\\ScorecardService\\Migrations\\20260408054215_a2.cs",
+              "RelativeDocumentMoniker": "ScorecardService\\Migrations\\20260408054215_a2.cs",
+              "ToolTip": "D:\\uGE_Dotnet FSD with Python\\Daywise content\\Day38\\StudentManagementDashboard\\ScorecardService\\Migrations\\20260408054215_a2.cs",
+              "RelativeToolTip": "ScorecardService\\Migrations\\20260408054215_a2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T05:42:15.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20260408054118_a2.cs",
+              "DocumentMoniker": "D:\\uGE_Dotnet FSD with Python\\Daywise content\\Day38\\StudentManagementDashboard\\StudentService\\Migrations\\20260408054118_a2.cs",
+              "RelativeDocumentMoniker": "StudentService\\Migrations\\20260408054118_a2.cs",
+              "ToolTip": "D:\\uGE_Dotnet FSD with Python\\Daywise content\\Day38\\StudentManagementDashboard\\StudentService\\Migrations\\20260408054118_a2.cs",
+              "RelativeToolTip": "StudentService\\Migrations\\20260408054118_a2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T05:41:18.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20260408054021_a1.cs",
+              "DocumentMoniker": "D:\\uGE_Dotnet FSD with Python\\Daywise content\\Day38\\StudentManagementDashboard\\DepartmentService\\Migrations\\20260408054021_a1.cs",
+              "RelativeDocumentMoniker": "DepartmentService\\Migrations\\20260408054021_a1.cs",
+              "ToolTip": "D:\\uGE_Dotnet FSD with Python\\Daywise content\\Day38\\StudentManagementDashboard\\DepartmentService\\Migrations\\20260408054021_a1.cs",
+              "RelativeToolTip": "DepartmentService\\Migrations\\20260408054021_a1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T05:40:21.571Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

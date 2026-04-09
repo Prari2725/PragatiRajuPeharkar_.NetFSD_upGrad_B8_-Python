@@ -1,0 +1,14 @@
+﻿<h2>Dashboard</h2>
+
+<p>Role: @ViewBag.Role</p>
+<p>@ViewBag.Data</p>
+
+@if (ViewBag.Role != null && ViewBag.Role.ToString() == "Admin")
+{
+    <a asp-controller="User" asp-action="Index">Manage Users</a>
+    <br />
+    <a asp-controller="User" asp-action="Create">Create User</a>
+    <br />
+}
+
+<a asp-controller="Auth" asp-action="Logout">Logout</a>

@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "jwtwithefcore\\jwtwithefcore.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "jeteffrontend\\jeteffrontend.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
